@@ -1,0 +1,10 @@
+Flask==3.0.0
+flask-cors==4.0.0
+feedparser==6.0.11
+requests==2.31.0
+sentence-transformers>=3.1.0
+torch>=2.6.0
+numpy>=1.26
+ollama==0.1.6
+beautifulsoup4
+rank_bm25

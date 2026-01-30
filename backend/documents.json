@@ -1,0 +1,2959 @@
+[
+  {
+    "id": "https://translink.com.au/updates/335236",
+    "text": "From 2023-08-08 to 2026-04-01, temporary stop closures affected routes 700, 753, 754, 757, 765, and 777 on Gold Coast Highway, including locations like Nobby Beach, Mermaid Beach, Annette Kellerman Park, Burleigh Heads, Christine Avenue, and Miami due to Gold Coast Light Rail works.",
+    "metadata": {
+      "title": "Gold Coast Highway - temporary stop closures",
+      "url": "https://translink.com.au/updates/335236",
+      "category": "Major",
+      "start_date": "08/08/2023 8:00 PM",
+      "end_date": null,
+      "services": "...",
+      "start_date_raw": "08/08/2023 8:00 PM",
+      "end_date_raw": null,
+      "start_date_iso": "2023-08-08",
+      "end_date_iso": null,
+      "start_date_epoch": 1691488800,
+      "end_date_epoch": null,
+      "routes": [
+        "700",
+        "753",
+        "754",
+        "757",
+        "765",
+        "777"
+      ],
+      "locations": [
+        "Gold Coast Highway",
+        "Nobby Beach",
+        "Mermaid Beach",
+        "Annette Kellerman Park",
+        "Burleigh Heads",
+        "Christine Avenue",
+        "Miami"
+      ],
+      "stops": [
+        "300340",
+        "300333",
+        "300176",
+        "300174",
+        "300175",
+        "300179",
+        "300180",
+        "300359",
+        "300360",
+        "300364",
+        "300365",
+        "300368",
+        "300363",
+        "321299"
+      ],
+      "keywords": [
+        "Gold Coast Highway",
+        "temporary stop closures",
+        "Gold Coast Light Rail works",
+        "routes 700",
+        "753",
+        "754",
+        "757",
+        "765",
+        "777",
+        "school services"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/352351",
+    "text": "From 2023-09-25 5:00 AM to early 2026, the footpath between Woolloongabba station platform 2 and Main Street is closed due to Cross River Rail construction. Access to platform 2 is via Stanley Street pedestrian overpass with stairs and a lift. During major Gabba events, an additional footpath will be available.",
+    "metadata": {
+      "title": "Woolloongabba station - platform 2 access changes",
+      "url": "https://translink.com.au/updates/352351",
+      "category": "Informative",
+      "start_date": "25/09/2023 5:00 AM",
+      "end_date": null,
+      "services": "Woolloongabba station",
+      "start_date_raw": "25/09/2023 5:00 AM",
+      "end_date_raw": null,
+      "start_date_iso": "2023-09-25",
+      "end_date_iso": null,
+      "start_date_epoch": 1695582000,
+      "end_date_epoch": null,
+      "routes": null,
+      "locations": [
+        "Woolloongabba station",
+        "Main Street"
+      ],
+      "stops": null,
+      "keywords": [
+        "Cross River Rail construction",
+        "platform access changes",
+        "Woolloongabba station",
+        "footpath closure"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/366546",
+    "text": "On 09/10/2023, temporary stop closures affected routes 600, 611, and 615 at Brisbane Road, Mooloolaba Bowls Club due to issues with bus travel along Foote Street. Use alternative stops: Walan Street near Bahlaka Street (Stop ID 301709) and Mooloolaba, River Esplanade (Stop ID 301708).",
+    "metadata": {
+      "title": "Brisbane Road, Mooloolaba - temporary stop closure",
+      "url": "https://translink.com.au/updates/366546",
+      "category": "Major",
+      "start_date": "09/10/2023 10:45 AM",
+      "end_date": null,
+      "services": "Brisbane Rd at Mooloolaba Bowls Club (301698)",
+      "start_date_raw": "09/10/2023 10:45 AM",
+      "end_date_raw": null,
+      "start_date_iso": "2023-10-09",
+      "end_date_iso": null,
+      "start_date_epoch": 1696812300,
+      "end_date_epoch": null,
+      "routes": [
+        "600",
+        "611",
+        "615"
+      ],
+      "locations": [
+        "Brisbane Road, Mooloolaba Bowls Club",
+        "Foote Street"
+      ],
+      "stops": [
+        "301698",
+        "301709",
+        "301708"
+      ],
+      "keywords": [
+        "temporary stop closure",
+        "alternative stops",
+        "Mooloolaba",
+        "Foote Street",
+        "bus travel issues"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/437036",
+    "text": "From 2024-03-03 1:00 AM to 2025-12-31, platform changes at Broadbeach South station require using platform 2 near Gold Coast Highway. No changes to tram times or local bus services.",
+    "metadata": {
+      "title": "Broadbeach South station - crossing and platform changes",
+      "url": "https://translink.com.au/updates/437036",
+      "category": "Informative",
+      "start_date": "03/03/2024 1:00 AM",
+      "end_date": null,
+      "services": "Broadbeach South station",
+      "start_date_raw": "03/03/2024 1:00 AM",
+      "end_date_raw": null,
+      "start_date_iso": "2024-03-03",
+      "end_date_iso": null,
+      "start_date_epoch": 1709391600,
+      "end_date_epoch": null,
+      "routes": [],
+      "locations": [
+        "Broadbeach South station"
+      ],
+      "stops": [],
+      "keywords": [
+        "platform changes",
+        "Broadbeach South",
+        "construction",
+        "tram services"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/500656",
+    "text": "From 02/02/2026 7:45 PM to 28/02/2026 4:00 AM, evening weekday Shorncliffe Line services between Northgate and Shorncliffe stations are suspended during track closures. Railbus R348 replaces trains between these stations, stopping at all stations, with 30-minute intervals. Bikes and e-scooters are prohibited on railbuses. Weekend travel may also be impacted.",
+    "metadata": {
+      "title": "Shorncliffe mid-week evening track closures",
+      "url": "https://translink.com.au/updates/500656",
+      "category": "Major",
+      "start_date": "02/02/2026 7:45 PM",
+      "end_date": "28/02/2026 4:00 AM",
+      "services": "Shorncliffe Line",
+      "start_date_raw": "02/02/2026 7:45 PM",
+      "end_date_raw": "28/02/2026 4:00 AM",
+      "start_date_iso": "2026-02-02",
+      "end_date_iso": "2026-02-28",
+      "start_date_epoch": 1770025500,
+      "end_date_epoch": 1772215200,
+      "routes": [
+        "Shorncliffe Line"
+      ],
+      "locations": [
+        "Northgate",
+        "Shorncliffe stations"
+      ],
+      "stops": null,
+      "keywords": [
+        "Shorncliffe Line",
+        "track closures",
+        "railbus R348",
+        "ETCS testing"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/614666",
+    "text": "From 2024-12-09 5:00 AM to mid-2026, Salisbury station and the overpass bridge between Dollis Street and Lillian Avenue are closed for Cross River Rail upgrade works. Alternative services include StationLink route 19, routes 110, 115, and 117 from Beaudesert Road. Rocklea and Coopers Plains stations offer accessible options during the closure.",
+    "metadata": {
+      "title": "Salisbury station - extended closure",
+      "url": "https://translink.com.au/updates/614666",
+      "category": "Major",
+      "start_date": "09/12/2024 5:00 AM",
+      "end_date": null,
+      "services": "19, Salisbury station",
+      "start_date_raw": "09/12/2024 5:00 AM",
+      "end_date_raw": null,
+      "start_date_iso": "2024-12-09",
+      "end_date_iso": null,
+      "start_date_epoch": 1733684400,
+      "end_date_epoch": null,
+      "routes": [
+        "19",
+        "110",
+        "115",
+        "117"
+      ],
+      "locations": [
+        "Salisbury station",
+        "overpass bridge between Dollis Street and Lillian Avenue",
+        "Beaudesert Road",
+        "Rocklea station",
+        "Coopers Plains station"
+      ],
+      "stops": [],
+      "keywords": [
+        "Cross River Rail upgrade",
+        "Salisbury station closure",
+        "alternative services",
+        "Rocklea station",
+        "accessible stations"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/640081",
+    "text": "From 2025-01-26 to 2025-06-30, temporary stop closures on Drews Road near Piari Street affected routes 553, 565, and school services. Use the alternative stop on Drews Road near Barokee Drive.",
+    "metadata": {
+      "title": "Drews Road, Tenah Merah - temporary stop closure",
+      "url": "https://translink.com.au/updates/640081",
+      "category": "Major",
+      "start_date": "26/01/2025 12:00 AM",
+      "end_date": "30/06/2025 12:00 PM",
+      "services": "Drews Rd near Piari St (313381)",
+      "start_date_raw": "26/01/2025 12:00 AM",
+      "end_date_raw": "30/06/2025 12:00 PM",
+      "start_date_iso": "2025-01-26",
+      "end_date_iso": "2025-06-30",
+      "start_date_epoch": 1737813600,
+      "end_date_epoch": 1751248800,
+      "routes": [
+        "553",
+        "565",
+        "school services"
+      ],
+      "locations": [
+        "Drews Road near Piari Street",
+        "Drews Road near Barokee Drive"
+      ],
+      "stops": [
+        "313381",
+        "313382"
+      ],
+      "keywords": [
+        "construction works",
+        "alternative stop",
+        "route closure",
+        "school services"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/768011",
+    "text": "From 2025-05-16 2:00 PM, temporary stop closures on Wilson Street, Labrador affected route 713. Use the alternative stop approximately 55m away until further notice.",
+    "metadata": {
+      "title": "Wilson Street, Labrador - temporary stop closure",
+      "url": "https://translink.com.au/updates/768011",
+      "category": "Major",
+      "start_date": "16/05/2025 2:00 PM",
+      "end_date": null,
+      "services": "Wilson St at Jimmieson Avenue (300929)",
+      "start_date_raw": "16/05/2025 2:00 PM",
+      "end_date_raw": null,
+      "start_date_iso": "2025-05-16",
+      "end_date_iso": null,
+      "start_date_epoch": 1747368000,
+      "end_date_epoch": null,
+      "routes": [
+        "713"
+      ],
+      "locations": [
+        "Wilson Street, Labrador"
+      ],
+      "stops": [
+        "300929"
+      ],
+      "keywords": [
+        "construction works",
+        "alternative stop",
+        "temporary closure"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/803221",
+    "text": "From 2025-07-18 9:00 PM to 2026-07-18, new late night trips for routes 600 and 616 operate on Friday and Saturday nights from a new stop at Maroochydore Road at Beach Road, with additional stops in Mooloolaba. Security guards are onboard all trips as part of a 12-month trial.",
+    "metadata": {
+      "title": "New late night trips and stop for routes 600 and 616",
+      "url": "https://translink.com.au/updates/803221",
+      "category": "Informative",
+      "start_date": "18/07/2025 9:00 PM",
+      "end_date": null,
+      "services": "616, 600, ...",
+      "start_date_raw": "18/07/2025 9:00 PM",
+      "end_date_raw": null,
+      "start_date_iso": "2025-07-18",
+      "end_date_iso": null,
+      "start_date_epoch": 1752836400,
+      "end_date_epoch": null,
+      "routes": [
+        "600",
+        "616"
+      ],
+      "locations": [
+        "Maroochydore Road at Beach Road",
+        "Mooloolaba",
+        "Maroochydore station"
+      ],
+      "stops": [
+        "322322"
+      ],
+      "keywords": [
+        "late night buses",
+        "new stop",
+        "security guards",
+        "12-month trial",
+        "Maroochydore",
+        "Mooloolaba"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/834946",
+    "text": "From 2025-08-25 4:00 AM to 2026-02-27 11:59 PM, temporary stop closures affect routes 704, 710, 3352, 3038, and 3042 on Gold Coast Highway at Discovery Drive (Stop ID 300272). Alternative stops include Helensvale station (320914), Lindfield Rd at Helensvale Plaza (300281), and Helensvale Community Centre (300261).",
+    "metadata": {
+      "title": "Gold Coast Highway, Helensvale - temporary stop closure",
+      "url": "https://translink.com.au/updates/834946",
+      "category": "Major",
+      "start_date": "25/08/2025 4:00 AM",
+      "end_date": "27/02/2026 11:59 PM",
+      "services": "Gold Coast Hwy at Discovery Drive (300272)",
+      "start_date_raw": "25/08/2025 4:00 AM",
+      "end_date_raw": "27/02/2026 11:59 PM",
+      "start_date_iso": "2025-08-25",
+      "end_date_iso": "2026-02-27",
+      "start_date_epoch": 1756058400,
+      "end_date_epoch": 1772200740,
+      "routes": [
+        "704",
+        "710",
+        "3352",
+        "3038",
+        "3042"
+      ],
+      "locations": [
+        "Gold Coast Highway at Discovery Drive",
+        "Helensvale station",
+        "Lindfield Rd at Helensvale Plaza",
+        "Helensvale Community Centre"
+      ],
+      "stops": [
+        "300272",
+        "320914",
+        "300281",
+        "300261"
+      ],
+      "keywords": [
+        "roadworks",
+        "temporary closure",
+        "alternative stops",
+        "school services",
+        "route 704",
+        "route 710"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/839861",
+    "text": "From 2026-01-27 4:00 AM, timetable changes for Route 233 in Townsville may cause buses to arrive earlier or later than usual. Please replan your travel using a date from Tuesday 27 January and check your updated timetable.",
+    "metadata": {
+      "title": "Route 233 - timetable changes",
+      "url": "https://translink.com.au/updates/839861",
+      "category": "Minor",
+      "start_date": "27/01/2026 4:00 AM",
+      "end_date": null,
+      "services": "233",
+      "start_date_raw": "27/01/2026 4:00 AM",
+      "end_date_raw": null,
+      "start_date_iso": "2026-01-27",
+      "end_date_iso": null,
+      "start_date_epoch": 1769450400,
+      "end_date_epoch": null,
+      "routes": [
+        "233"
+      ],
+      "locations": [
+        "Townsville"
+      ],
+      "stops": [],
+      "keywords": [
+        "timetable changes",
+        "Route 233",
+        "Townsville Bus"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/861736",
+    "text": "From 2025-09-15 4:00 AM to 2026-03-31 11:59 PM, temporary stop closure at Riverway Drive, Mac Court (Stop ID 890472) due to roadworks. Use the alternative stop on Riverway Drive, approximately 70m away.",
+    "metadata": {
+      "title": "Riverway Drive, Kelso - temporary stop closure",
+      "url": "https://translink.com.au/updates/861736",
+      "category": "Major",
+      "start_date": "15/09/2025 4:00 AM",
+      "end_date": "31/03/2026 11:59 PM",
+      "services": "Riverway Dr at Mac Court (890472)",
+      "start_date_raw": "15/09/2025 4:00 AM",
+      "end_date_raw": "31/03/2026 11:59 PM",
+      "start_date_iso": "2025-09-15",
+      "end_date_iso": "2026-03-31",
+      "start_date_epoch": 1757872800,
+      "end_date_epoch": 1774965540,
+      "routes": [],
+      "locations": [
+        "Riverway Drive, Kelso",
+        "Riverway Drive at Mac Court"
+      ],
+      "stops": [
+        "890472"
+      ],
+      "keywords": [
+        "temporary stop closure",
+        "roadworks",
+        "alternative stop",
+        "Riverway Drive",
+        "Kelso",
+        "Mac Court"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/872316",
+    "text": "From 2025-12-05 to 2026-04-10 11:59 PM, temporary stop closures on Mona Street, Whitfield affected routes 172, 181, 182, and 183. Closed stops include Mona St near Crowther St (750558) and Mona St near Draper Pl (750563). Use alternative stops at Woodward Street at Heavey Crescent (750464) and Woodward Street at McManus Street (750465).",
+    "metadata": {
+      "title": "Mona Street, Whitfield - temporary stop closures",
+      "url": "https://translink.com.au/updates/872316",
+      "category": "Major",
+      "start_date": "05/12/2025 4:00 AM",
+      "end_date": "10/04/2026 11:59 PM",
+      "services": "Mona St near Crowther St hail 'n' ride (750558), ...",
+      "start_date_raw": "05/12/2025 4:00 AM",
+      "end_date_raw": "10/04/2026 11:59 PM",
+      "start_date_iso": "2025-12-05",
+      "end_date_iso": "2026-04-10",
+      "start_date_epoch": 1764871200,
+      "end_date_epoch": 1775829540,
+      "routes": [
+        "172",
+        "181",
+        "182",
+        "183"
+      ],
+      "locations": [
+        "Mona Street, Whitfield"
+      ],
+      "stops": [
+        "750558",
+        "750563",
+        "750464",
+        "750465"
+      ],
+      "keywords": [
+        "temporary stop closures",
+        "construction works",
+        "alternative stops",
+        "route changes"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/882131",
+    "text": "From 2025-11-29 to 2026-06-30 9:00 PM, Shorncliffe station is closed for major upgrades, affecting Shorncliffe Line services which will run between Brisbane City and Sandgate station. Alternative transport includes railbus R346 (Sandgate-Shorncliffe) and Route 313 (Sandgate-Shorncliffe) with stops at Sandgate Central, Eagle Terrace, Shorncliffe State School, Saint Patricks College, and Moora Park.",
+    "metadata": {
+      "title": "Shorncliffe station renewal and upgrade",
+      "url": "https://translink.com.au/updates/882131",
+      "category": "Major",
+      "start_date": "29/11/2025 5:00 AM",
+      "end_date": "30/06/2026 9:00 PM",
+      "services": "Shorncliffe Line, Shorncliffe station",
+      "start_date_raw": "29/11/2025 5:00 AM",
+      "end_date_raw": "30/06/2026 9:00 PM",
+      "start_date_iso": "2025-11-29",
+      "end_date_iso": "2026-06-30",
+      "start_date_epoch": 1764356400,
+      "end_date_epoch": 1782817200,
+      "routes": [
+        "Shorncliffe Line",
+        "R346",
+        "313"
+      ],
+      "locations": [
+        "Shorncliffe station",
+        "Sandgate station"
+      ],
+      "stops": [
+        "Sandgate Central",
+        "Eagle Terrace",
+        "Shorncliffe State School",
+        "Saint Patricks College",
+        "Moora Park"
+      ],
+      "keywords": [
+        "Shorncliffe station closure",
+        "railbus R346",
+        "Route 313",
+        "alternative transport",
+        "station upgrades"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/891766",
+    "text": "From 2025-10-24 to 2026-02-15 11:59 AM, temporary stop closure on Andrew Road, Greenbank (Stop ID SI:312246) due to electrical works. Affected routes 541, 6043, and 6151. Use the temporary stop approximately 80m away (1 min walk).",
+    "metadata": {
+      "title": "Andrew Road, Greenbank - temporary stop closure",
+      "url": "https://translink.com.au/updates/891766",
+      "category": "Major",
+      "start_date": "24/10/2025 4:00 AM",
+      "end_date": "15/02/2026 11:59 AM",
+      "services": "Andrew Rd near Mount Lindesay Hwy (312246)",
+      "start_date_raw": "24/10/2025 4:00 AM",
+      "end_date_raw": "15/02/2026 11:59 AM",
+      "start_date_iso": "2025-10-24",
+      "end_date_iso": "2026-02-15",
+      "start_date_epoch": 1761242400,
+      "end_date_epoch": 1771120740,
+      "routes": [
+        "541",
+        "6043",
+        "6151"
+      ],
+      "locations": [
+        "Andrew Road, Greenbank",
+        "Mount Lindesay Highway"
+      ],
+      "stops": [
+        "SI:312246"
+      ],
+      "keywords": [
+        "temporary stop closure",
+        "electrical works",
+        "alternative stop",
+        "route 541",
+        "school services"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/895596",
+    "text": "From 2025-12-16 8:30 PM to 2025-12-16 11:59 PM, Buranda busway station will be closed for essential tunnel maintenance. Routes 120, 180, 169, 179, 205, 209, 222, and 555 will not stop at Buranda station. Affected stations include Stones Corner and Langlands Park. Alternative stops are available at O'Keefe Street and Old Cleveland Rd locations.",
+    "metadata": {
+      "title": "Buranda busway station - evening station closure",
+      "url": "https://translink.com.au/updates/895596",
+      "category": "Major",
+      "start_date": "16/12/2025 8:30 PM",
+      "end_date": "11:59 PM",
+      "services": "222, 209, Buranda busway station, ...",
+      "start_date_raw": "16/12/2025 8:30 PM",
+      "end_date_raw": "11:59 PM",
+      "start_date_iso": "2025-12-16",
+      "end_date_iso": null,
+      "start_date_epoch": 1765881000,
+      "end_date_epoch": null,
+      "routes": [
+        "120",
+        "180",
+        "169",
+        "179",
+        "205",
+        "209",
+        "222",
+        "555"
+      ],
+      "locations": [
+        "Buranda busway station",
+        "Stones Corner station",
+        "Langlands Park station",
+        "O'Keefe Street",
+        "Old Cleveland Rd"
+      ],
+      "stops": [
+        "010814",
+        "010813",
+        "003091",
+        "003072",
+        "003071",
+        "003001",
+        "010189",
+        "003057",
+        "002459",
+        "002461"
+      ],
+      "keywords": [
+        "Buranda busway station",
+        "Stones Corner",
+        "Langlands Park",
+        "tunnel maintenance",
+        "alternative stops",
+        "route closures"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/896411",
+    "text": "From 2025-12-17 8:30 PM to 2025-12-17 11:59 PM, parts of the Northern busway will be closed due to essential tunnel maintenance, affecting routes M2, 330, 333, and 340. QUT Kelvin Grove and Herston stations will be closed, with alternative stops available for routes 330, 333, and 340. Metro M2 will terminate at Roma Street station.",
+    "metadata": {
+      "title": "Inner northern busway - Wednesday evening closure",
+      "url": "https://translink.com.au/updates/896411",
+      "category": "Major",
+      "start_date": "17/12/2025 8:30 PM",
+      "end_date": "11:59 PM",
+      "services": "M2, Normanby station, QUT Kelvin Grove station, ...",
+      "start_date_raw": "17/12/2025 8:30 PM",
+      "end_date_raw": "11:59 PM",
+      "start_date_iso": "2025-12-17",
+      "end_date_iso": null,
+      "start_date_epoch": 1765967400,
+      "end_date_epoch": null,
+      "routes": [
+        "M2",
+        "330",
+        "333",
+        "340"
+      ],
+      "locations": [
+        "Inner northern busway",
+        "Normanby station",
+        "QUT Kelvin Grove station",
+        "Herston station",
+        "RBWH station"
+      ],
+      "stops": [
+        "000884",
+        "000889",
+        "000891",
+        "000890",
+        "000876",
+        "000898",
+        "020522",
+        "020523"
+      ],
+      "keywords": [
+        "Northern busway",
+        "M2",
+        "tunnel maintenance",
+        "alternative stops",
+        "closed stops",
+        "open stops"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/899381",
+    "text": "From 2025-10-31 12:00 AM to 2026-01-31 11:59 PM, temporary stop closures on route 679 affected stops 315215 and 317973 at Cairns Rd at Vermilion Avenue, Griffin and Vermillion Ave near Grandview Pde, Griffin due to roadworks. Alternative stops are available.",
+    "metadata": {
+      "title": "Cairns Road and Vermillion Avenue, Griffin - temporary stop closures",
+      "url": "https://translink.com.au/updates/899381",
+      "category": "Major",
+      "start_date": "31/10/2025 12:00 AM",
+      "end_date": "31/01/2026 11:59 PM",
+      "services": "Cairns Rd at Vermilion Avenue (315215), ...",
+      "start_date_raw": "31/10/2025 12:00 AM",
+      "end_date_raw": "31/01/2026 11:59 PM",
+      "start_date_iso": "2025-10-31",
+      "end_date_iso": "2026-01-31",
+      "start_date_epoch": 1761832800,
+      "end_date_epoch": 1769867940,
+      "routes": [
+        "679"
+      ],
+      "locations": [
+        "Cairns Rd at Vermilion Avenue, Griffin",
+        "Vermillion Ave near Grandview Pde, Griffin"
+      ],
+      "stops": [
+        "315215",
+        "317973"
+      ],
+      "keywords": [
+        "roadworks",
+        "stop closures",
+        "route 679",
+        "alternative stops"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/904486",
+    "text": "From 29/10/2025 1:30 PM until further notice, Flinders Street at Fletcher Street, Townsville City (Stop ID 890343) will be closed for bus stop accessibility. Affected routes 200, 201, 202, 203, 204, 207, and 258 should use alternative stops: Flinders St at Knapp Street (890342) and Flinders St at Blackwood Street (890344).",
+    "metadata": {
+      "title": "Flinders Street, Townsville - temporary stop closure",
+      "url": "https://translink.com.au/updates/904486",
+      "category": "Major",
+      "start_date": "29/10/2025 1:30 PM",
+      "end_date": null,
+      "services": "Flinders St at Fletcher Street (890343)",
+      "start_date_raw": "29/10/2025 1:30 PM",
+      "end_date_raw": null,
+      "start_date_iso": "2025-10-29",
+      "end_date_iso": null,
+      "start_date_epoch": 1761708600,
+      "end_date_epoch": null,
+      "routes": [
+        "200",
+        "201",
+        "202",
+        "203",
+        "204",
+        "207",
+        "258"
+      ],
+      "locations": [
+        "Flinders Street at Fletcher Street, Townsville City"
+      ],
+      "stops": [
+        "890343",
+        "890342",
+        "890344"
+      ],
+      "keywords": [
+        "bus stop closure",
+        "alternative stops",
+        "accessibility",
+        "route 200",
+        "route 258"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/906416",
+    "text": "From 2025-11-10 to 2026-05-31, temporary stop closures affect routes 6702, 6706, 6820, 6824, 6831, 6833, 6860, 6861, and 6871 at Murrumba Downs Shopping Centre on Dohles Rocks Road. Use the alternative stop on Goodrich Road (Stop ID 317934) for access.",
+    "metadata": {
+      "title": "Dohles Rock Road, Murrumba Downs - temporary stop closure",
+      "url": "https://translink.com.au/updates/906416",
+      "category": "Major",
+      "start_date": "10/11/2025 12:00 AM",
+      "end_date": "31/05/2026 11:59 PM",
+      "services": "Murrumba Downs Shopping Centre (316056)",
+      "start_date_raw": "10/11/2025 12:00 AM",
+      "end_date_raw": "31/05/2026 11:59 PM",
+      "start_date_iso": "2025-11-10",
+      "end_date_iso": "2026-05-31",
+      "start_date_epoch": 1762696800,
+      "end_date_epoch": 1780235940,
+      "routes": [
+        "6702",
+        "6706",
+        "6820",
+        "6824",
+        "6831",
+        "6833",
+        "6860",
+        "6861",
+        "6871"
+      ],
+      "locations": [
+        "Murrumba Downs Shopping Centre on Dohles Rocks Road",
+        "Murrumba Downs Shopping Centre on Goodrich Road"
+      ],
+      "stops": [
+        "316056",
+        "317934"
+      ],
+      "keywords": [
+        "roadworks",
+        "stop closure",
+        "alternative stop",
+        "route diversion"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/909911",
+    "text": "From 01/02/2026 4:30 AM to 11:00 AM, temporary stop closures affected routes 250, N250, 271, and 274 at Cleveland station (Stop ID 310063), Shore St at Black Swamp Wetlands, Shore St at RACQ, and other locations due to the Raby Bay Triathlon. Use alternative stops as indicated.",
+    "metadata": {
+      "title": "Raby Bay Triathlon - temporary stop closures",
+      "url": "https://translink.com.au/updates/909911",
+      "category": "Major",
+      "start_date": "01/02/2026 4:30 AM",
+      "end_date": "11:00 AM",
+      "services": "Cleveland station (310063), ...",
+      "start_date_raw": "01/02/2026 4:30 AM",
+      "end_date_raw": "11:00 AM",
+      "start_date_iso": "2026-02-01",
+      "end_date_iso": null,
+      "start_date_epoch": 1769884200,
+      "end_date_epoch": null,
+      "routes": [
+        "250",
+        "N250",
+        "271",
+        "274"
+      ],
+      "locations": [
+        "Cleveland station",
+        "Shore St at Black Swamp Wetlands",
+        "Shore St at RACQ",
+        "Ormiston"
+      ],
+      "stops": [
+        "310063",
+        "310379",
+        "310380",
+        "310385",
+        "310820"
+      ],
+      "keywords": [
+        "Raby Bay Triathlon",
+        "temporary stop closures",
+        "route 250",
+        "route 271",
+        "Cleveland station"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/918346",
+    "text": "From 2025-11-17 to 2026-03-31 11:59 PM, temporary stop closures on Denmans Camp Road and Totness Street, Scarness affect route 705. Closed stops include 840043 and 840049, with alternative stops at 840102 and 840050.",
+    "metadata": {
+      "title": "Denmans Camp Road and Totness Street, Scarness - temporary stop closure",
+      "url": "https://translink.com.au/updates/918346",
+      "category": "Major",
+      "start_date": "17/11/2025 12:00 AM",
+      "end_date": "31/03/2026 11:59 PM",
+      "services": "Denmans Camp Road at Totness St (840043), ...",
+      "start_date_raw": "17/11/2025 12:00 AM",
+      "end_date_raw": "31/03/2026 11:59 PM",
+      "start_date_iso": "2025-11-17",
+      "end_date_iso": "2026-03-31",
+      "start_date_epoch": 1763301600,
+      "end_date_epoch": 1774965540,
+      "routes": [
+        "705"
+      ],
+      "locations": [
+        "Denmans Camp Road, Totness Street, Scarness"
+      ],
+      "stops": [
+        "840043",
+        "840049",
+        "840102",
+        "840050"
+      ],
+      "keywords": [
+        "roadworks",
+        "temporary closure",
+        "alternative stops"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/926571",
+    "text": "From 2026-02-18 8:30 PM to 2026-02-18 11:59 PM, parts of the Northern busway will be closed due to essential tunnel maintenance. Routes M2, 330, 333, and 340 will be affected, with QUT Kelvin Grove and Herston stations closed. Alternative stops are available for affected services.",
+    "metadata": {
+      "title": "Inner northern busway - Wednesday evening closure",
+      "url": "https://translink.com.au/updates/926571",
+      "category": "Major",
+      "start_date": "18/02/2026 8:30 PM",
+      "end_date": "11:59 PM",
+      "services": "M2, Normanby station, QUT Kelvin Grove station, ...",
+      "start_date_raw": "18/02/2026 8:30 PM",
+      "end_date_raw": "11:59 PM",
+      "start_date_iso": "2026-02-18",
+      "end_date_iso": null,
+      "start_date_epoch": 1771410600,
+      "end_date_epoch": null,
+      "routes": [
+        "M2",
+        "330",
+        "333",
+        "340"
+      ],
+      "locations": [
+        "Inner northern busway",
+        "Normanby station",
+        "QUT Kelvin Grove station",
+        "Herston station",
+        "RBWH station"
+      ],
+      "stops": [
+        "000884",
+        "000889",
+        "000891",
+        "000890",
+        "000876",
+        "000898",
+        "020522",
+        "020523"
+      ],
+      "keywords": [
+        "Northern busway closure",
+        "tunnel maintenance",
+        "alternative stops",
+        "M2 service",
+        "Herston station",
+        "QUT Kelvin Grove"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/926611",
+    "text": "From 2026-02-17 8:30 PM to 2026-02-17 11:59 PM, Buranda busway station closure affects routes 120, 169, 179, 180, 205, 209, 222, and 555. Stations impacted include Buranda busway, Stones Corner, and Langlands Park. Alternative stops are available for some routes.",
+    "metadata": {
+      "title": "Buranda busway station - evening station closure",
+      "url": "https://translink.com.au/updates/926611",
+      "category": "Major",
+      "start_date": "17/02/2026 8:30 PM",
+      "end_date": "11:59 PM",
+      "services": "222, 209, Buranda busway station, ...",
+      "start_date_raw": "17/02/2026 8:30 PM",
+      "end_date_raw": "11:59 PM",
+      "start_date_iso": "2026-02-17",
+      "end_date_iso": null,
+      "start_date_epoch": 1771324200,
+      "end_date_epoch": null,
+      "routes": [
+        "120",
+        "169",
+        "179",
+        "180",
+        "205",
+        "209",
+        "222",
+        "555"
+      ],
+      "locations": [
+        "Buranda busway station",
+        "Stones Corner station",
+        "Langlands Park station"
+      ],
+      "stops": [
+        "010814",
+        "010813",
+        "003091",
+        "003072",
+        "003071",
+        "003001",
+        "010189",
+        "003057",
+        "002459",
+        "002461"
+      ],
+      "keywords": [
+        "Buranda busway station closure",
+        "tunnel maintenance",
+        "alternative stops",
+        "route 209",
+        "route 222",
+        "Stones Corner",
+        "Langlands Park"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/926621",
+    "text": "From 2026-05-26 8:30 PM to 2026-05-26 11:59 PM, Buranda busway station closure affects routes 209, 222, 120, 180, 169, 179, 205, and 555. Services will not stop at Buranda busway station, with alternative stops at O'Keefe Street and revised stops at Stones Corner and Langlands Park stations.",
+    "metadata": {
+      "title": "Buranda busway station - evening station closure",
+      "url": "https://translink.com.au/updates/926621",
+      "category": "Major",
+      "start_date": "26/05/2026 8:30 PM",
+      "end_date": "11:59 PM",
+      "services": "222, 209, Buranda busway station, ...",
+      "start_date_raw": "26/05/2026 8:30 PM",
+      "end_date_raw": "11:59 PM",
+      "start_date_iso": "2026-05-26",
+      "end_date_iso": null,
+      "start_date_epoch": 1779791400,
+      "end_date_epoch": null,
+      "routes": [
+        "209",
+        "222",
+        "120",
+        "180",
+        "169",
+        "179",
+        "205",
+        "555"
+      ],
+      "locations": [
+        "Buranda busway station",
+        "Stones Corner station",
+        "Langlands Park station"
+      ],
+      "stops": [
+        "010814",
+        "010813",
+        "003091",
+        "003072",
+        "003071",
+        "003001",
+        "010189",
+        "003057",
+        "002459",
+        "002461"
+      ],
+      "keywords": [
+        "tunnel maintenance",
+        "busway station closure",
+        "route 209",
+        "route 222",
+        "alternative stops",
+        "Stones Corner",
+        "Langlands Park"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/928741",
+    "text": "From 2025-12-27 to 2026-02-02, temporary bus stop closures on Charlotte Street, Brisbane City affect routes 171, 176, 181, 186, 332, 344, 384. Services will be relocated to temporary stop 92 on Mary Street during Cross River Rail construction works.",
+    "metadata": {
+      "title": "Charlotte Street, Brisbane City - temporary bus stop closures",
+      "url": "https://translink.com.au/updates/928741",
+      "category": "Major",
+      "start_date": "27/12/2025 6:00 AM",
+      "end_date": "02/02/2026 6:00 AM",
+      "services": "171, 176, 181, 186, 332, 344, 384, ...",
+      "start_date_raw": "27/12/2025 6:00 AM",
+      "end_date_raw": "02/02/2026 6:00 AM",
+      "start_date_iso": "2025-12-27",
+      "end_date_iso": "2026-02-02",
+      "start_date_epoch": 1766779200,
+      "end_date_epoch": 1769976000,
+      "routes": [
+        "171",
+        "176",
+        "181",
+        "186",
+        "332",
+        "344",
+        "384"
+      ],
+      "locations": [
+        "Charlotte Street",
+        "Brisbane City",
+        "Mary Street"
+      ],
+      "stops": [
+        "000051",
+        "000052",
+        "000092"
+      ],
+      "keywords": [
+        "Cross River Rail",
+        "temporary stop closures",
+        "bus route changes",
+        "Charlotte Street",
+        "Brisbane City"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/930791",
+    "text": "On 2026-01-27, route 50 will begin servicing stop 000105 at William Street near Margaret Street (underneath The Star Brisbane hotel and casino complex).",
+    "metadata": {
+      "title": "New stop for route 50 - The Star, Brisbane City",
+      "url": "https://translink.com.au/updates/930791",
+      "category": "Informative",
+      "start_date": "27/01/2026 12:00 AM",
+      "end_date": null,
+      "services": "50, ...",
+      "start_date_raw": "27/01/2026 12:00 AM",
+      "end_date_raw": null,
+      "start_date_iso": "2026-01-27",
+      "end_date_iso": null,
+      "start_date_epoch": 1769436000,
+      "end_date_epoch": null,
+      "routes": [
+        "50"
+      ],
+      "locations": [
+        "William Street near Margaret Street",
+        "The Star Brisbane hotel and casino complex"
+      ],
+      "stops": [
+        "000105"
+      ],
+      "keywords": [
+        "new stop",
+        "route 50",
+        "Brisbane City",
+        "The Star",
+        "William Street"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/933551",
+    "text": "On 2025-12-09, a minor timetable change affects route TX7 at Coomera station. The first service departs 8:09 AM instead of 8:07 AM to add buffer time between the 8:04 AM Brisbane City train arrival and the TX7 departure. Travelers are advised to replan their journeys for this date.",
+    "metadata": {
+      "title": "Route TX7 - Coomera station timetable change",
+      "url": "https://translink.com.au/updates/933551",
+      "category": "Informative",
+      "start_date": "09/12/2025 8:00 AM",
+      "end_date": null,
+      "services": "TX7, Coomera station",
+      "start_date_raw": "09/12/2025 8:00 AM",
+      "end_date_raw": null,
+      "start_date_iso": "2025-12-09",
+      "end_date_iso": null,
+      "start_date_epoch": 1765231200,
+      "end_date_epoch": null,
+      "routes": [
+        "TX7"
+      ],
+      "locations": [
+        "Coomera station"
+      ],
+      "stops": [
+        "Coomera station"
+      ],
+      "keywords": [
+        "timetable change",
+        "TX7",
+        "Coomera station",
+        "schedule adjustment",
+        "travel planning"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/934486",
+    "text": "On 2026-02-23, improved bus services will operate on routes 562, 563, 564, 568, 565, and 582, with route realignments, extended operating hours, and new stops in Bahrs Scrub, Bethania, Meadowbrook, and Holmview. Route 564 and 568 will be replaced by upgraded routes 562/563, while route 582 is renumbered to 580. New stops include Rosella Drv (322392), Bahrs Scrub Rd at Hein Rd (322393), Prangley Rd at Brookhaven Bvd (322395), and others.",
+    "metadata": {
+      "title": "Better bus services are coming for Logan South",
+      "url": "https://translink.com.au/updates/934486",
+      "category": "Major",
+      "start_date": "23/02/2026 12:00 AM",
+      "end_date": null,
+      "services": "563, 562, 564, 568, 565, 582",
+      "start_date_raw": "23/02/2026 12:00 AM",
+      "end_date_raw": null,
+      "start_date_iso": "2026-02-23",
+      "end_date_iso": null,
+      "start_date_epoch": 1771768800,
+      "end_date_epoch": null,
+      "routes": [
+        "562",
+        "563",
+        "564",
+        "568",
+        "565",
+        "582"
+      ],
+      "locations": [
+        "Bahrs Scrub",
+        "Bethania",
+        "Meadowbrook",
+        "Holmview",
+        "Logan"
+      ],
+      "stops": [
+        "322392",
+        "322393",
+        "322394",
+        "322395"
+      ],
+      "keywords": [
+        "bus service changes",
+        "route realignment",
+        "new stops",
+        "extended hours",
+        "public transport improvements"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/940276",
+    "text": "From 2026-01-27 4:00 AM to 2026-04-07, Moreton Bay bus services 680, 687, 688, 689, 690, 691 will follow school term timetables, with the next holiday timetables starting on 2026-04-07.",
+    "metadata": {
+      "title": "Moreton Bay school term timetables",
+      "url": "https://translink.com.au/updates/940276",
+      "category": "Informative",
+      "start_date": "27/01/2026 4:00 AM",
+      "end_date": null,
+      "services": "680, 687, 688, 689, 690, 691",
+      "start_date_raw": "27/01/2026 4:00 AM",
+      "end_date_raw": null,
+      "start_date_iso": "2026-01-27",
+      "end_date_iso": null,
+      "start_date_epoch": 1769450400,
+      "end_date_epoch": null,
+      "routes": [
+        "680",
+        "687",
+        "688",
+        "689",
+        "690",
+        "691"
+      ],
+      "locations": [
+        "Moreton Bay"
+      ],
+      "stops": null,
+      "keywords": [
+        "school term timetables",
+        "Moreton Bay",
+        "bus services"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/940281",
+    "text": "From 2026-01-27 4:00 AM to 2026-04-07, school term timetables are in effect for routes 700, 713, 714, 715, 717, 718, 719, 721, 722, 723, 725, 727, 728, 729, 731, 736, 738, 744, 748, 749, 750, 756, 757, 758, 759, 760, 764, 765, 766 on the Gold Coast.",
+    "metadata": {
+      "title": "Gold Coast school term timetables",
+      "url": "https://translink.com.au/updates/940281",
+      "category": "Informative",
+      "start_date": "27/01/2026 4:00 AM",
+      "end_date": null,
+      "services": "700, 713, 714, 715, 717, 718, 719, 721, 722, ...",
+      "start_date_raw": "27/01/2026 4:00 AM",
+      "end_date_raw": null,
+      "start_date_iso": "2026-01-27",
+      "end_date_iso": null,
+      "start_date_epoch": 1769450400,
+      "end_date_epoch": null,
+      "routes": [
+        "700",
+        "713",
+        "714",
+        "715",
+        "717",
+        "718",
+        "719",
+        "721",
+        "722",
+        "723",
+        "725",
+        "727",
+        "728",
+        "729",
+        "731",
+        "736",
+        "738",
+        "744",
+        "748",
+        "749",
+        "750",
+        "756",
+        "757",
+        "758",
+        "759",
+        "760",
+        "764",
+        "765",
+        "766"
+      ],
+      "locations": [
+        "Gold Coast"
+      ],
+      "stops": [],
+      "keywords": [
+        "school term timetables",
+        "Gold Coast",
+        "bus services"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/940291",
+    "text": "From 2026-01-27 4:00 AM to 2026-04-07, Sunshine Coast bus services 602, 603, 607, 610, 612, 614, 615, 616, 617, 618, 620, 622, 628, 629, 631, 636 return to school term timetables with temporary adjustments affecting the region.",
+    "metadata": {
+      "title": "Sunshine Coast school term timetables",
+      "url": "https://translink.com.au/updates/940291",
+      "category": "Informative",
+      "start_date": "27/01/2026 4:00 AM",
+      "end_date": null,
+      "services": "602, 603, 607, 610, 612, 614, 615, 616, 617, ...",
+      "start_date_raw": "27/01/2026 4:00 AM",
+      "end_date_raw": null,
+      "start_date_iso": "2026-01-27",
+      "end_date_iso": null,
+      "start_date_epoch": 1769450400,
+      "end_date_epoch": null,
+      "routes": [
+        "602",
+        "603",
+        "607",
+        "610",
+        "612",
+        "614",
+        "615",
+        "616",
+        "617",
+        "618",
+        "620",
+        "622",
+        "628",
+        "629",
+        "631",
+        "636"
+      ],
+      "locations": [
+        "Sunshine Coast"
+      ],
+      "stops": null,
+      "keywords": [
+        "school term timetables",
+        "Sunshine Coast",
+        "bus services",
+        "route adjustments"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/944301",
+    "text": "On 2026-01-26, route 535 will begin servicing a new bus stop at Gateway Drive, Elizabeth Drive, Undullah (Logan City).",
+    "metadata": {
+      "title": "New stop for route 535 in Flagstone",
+      "url": "https://translink.com.au/updates/944301",
+      "category": "Informative",
+      "start_date": "26/01/2026 5:00 AM",
+      "end_date": null,
+      "services": "535",
+      "start_date_raw": "26/01/2026 5:00 AM",
+      "end_date_raw": null,
+      "start_date_iso": "2026-01-26",
+      "end_date_iso": null,
+      "start_date_epoch": 1769367600,
+      "end_date_epoch": null,
+      "routes": [
+        "535"
+      ],
+      "locations": [
+        "Undullah (Logan City)"
+      ],
+      "stops": [
+        "321906"
+      ],
+      "keywords": [
+        "new stop",
+        "route 535",
+        "Undullah",
+        "Logan City"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/945031",
+    "text": "From 2026-01-21 to 2026-08-15, temporary stop closures on Riverway Drive, Kelso affect route 200. Alternative stops are available for route 200 towards Breakwater ferry terminal and Kelso.",
+    "metadata": {
+      "title": "Riverway Drive, Kelso - temporary stop closures",
+      "url": "https://translink.com.au/updates/945031",
+      "category": "Major",
+      "start_date": "21/01/2026 12:00 AM",
+      "end_date": "15/08/2026 11:59 PM",
+      "services": "Riverway Dr at Rosewood Avenue (890473), ...",
+      "start_date_raw": "21/01/2026 12:00 AM",
+      "end_date_raw": "15/08/2026 11:59 PM",
+      "start_date_iso": "2026-01-21",
+      "end_date_iso": "2026-08-15",
+      "start_date_epoch": 1768917600,
+      "end_date_epoch": 1786802340,
+      "routes": [
+        "200"
+      ],
+      "locations": [
+        "Riverway Drive, Kelso"
+      ],
+      "stops": [
+        "890473",
+        "890492",
+        "890477",
+        "890478",
+        "890495"
+      ],
+      "keywords": [
+        "roadworks",
+        "stop closures",
+        "route 200",
+        "Riverway Drive",
+        "Kelso"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/946576",
+    "text": "On 2026-01-27 4:00 AM, minor timetable changes affect route 561 with a 3-minute delay to the 7:45am weekday service to Brisbane City. The 561 now departs from Bumstead Road near Judith Street, Crestmead (Stop ID 321129) at 7:48am. No other services are impacted.",
+    "metadata": {
+      "title": "Route 561 - minor timetable and route change",
+      "url": "https://translink.com.au/updates/946576",
+      "category": "Minor",
+      "start_date": "27/01/2026 4:00 AM",
+      "end_date": null,
+      "services": "561",
+      "start_date_raw": "27/01/2026 4:00 AM",
+      "end_date_raw": null,
+      "start_date_iso": "2026-01-27",
+      "end_date_iso": null,
+      "start_date_epoch": 1769450400,
+      "end_date_epoch": null,
+      "routes": [
+        "561"
+      ],
+      "locations": [
+        "Bumstead Road near Judith Street, Crestmead",
+        "Brisbane City"
+      ],
+      "stops": [
+        "321129"
+      ],
+      "keywords": [
+        "minor timetable change",
+        "route extension",
+        "delayed arrival",
+        "Bumstead Road"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/946591",
+    "text": "On 2025-12-19, ticketing payment issues affect routes 860 and 861 in the Whitsunday region. Single trip payments only; daily and 10-trip tickets unavailable. Pay with debit/credit card or cash.",
+    "metadata": {
+      "title": "Ticketing payment issues - Whitsunday Transit",
+      "url": "https://translink.com.au/updates/946591",
+      "category": "Informative",
+      "start_date": "19/12/2025 12:00 PM",
+      "end_date": null,
+      "services": "860, 861",
+      "start_date_raw": "19/12/2025 12:00 PM",
+      "end_date_raw": null,
+      "start_date_iso": "2025-12-19",
+      "end_date_iso": null,
+      "start_date_epoch": 1766109600,
+      "end_date_epoch": null,
+      "routes": [
+        "860",
+        "861"
+      ],
+      "locations": [
+        "Whitsunday region"
+      ],
+      "stops": null,
+      "keywords": [
+        "ticket payment issues",
+        "single trip payments",
+        "daily tickets unavailable",
+        "cash payment",
+        "Whitsunday Transit"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/953521",
+    "text": "On 2026-01-27 4:00 AM, a minor timetable change affects route 262, with buses arriving or departing slightly earlier or later than usual. Replan travel using a date from Tuesday 27 January or check updated timetables for affected journeys.",
+    "metadata": {
+      "title": "Route 262 - minor timetable change",
+      "url": "https://translink.com.au/updates/953521",
+      "category": "Minor",
+      "start_date": "27/01/2026 4:00 AM",
+      "end_date": null,
+      "services": "262",
+      "start_date_raw": "27/01/2026 4:00 AM",
+      "end_date_raw": null,
+      "start_date_iso": "2026-01-27",
+      "end_date_iso": null,
+      "start_date_epoch": 1769450400,
+      "end_date_epoch": null,
+      "routes": [
+        "262"
+      ],
+      "locations": null,
+      "stops": null,
+      "keywords": [
+        "minor timetable change",
+        "route 262",
+        "timetable update"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/954676",
+    "text": "From 2026-02-06 11:30 PM to 2026-02-08 11:59 PM, track closure on Ipswich/Rosewood and Springfield lines. Railbuses will replace trains between Roma Street to Rosewood and Springfield Central stations.",
+    "metadata": {
+      "title": "Weekend track closure - Ipswich-Rosewood and Springfield lines",
+      "url": "https://translink.com.au/updates/954676",
+      "category": "Major",
+      "start_date": "06/02/2026 11:30 PM",
+      "end_date": "08/02/2026 11:59 PM",
+      "services": "Ipswich/Rosewood Line, Springfield Line",
+      "start_date_raw": "06/02/2026 11:30 PM",
+      "end_date_raw": "08/02/2026 11:59 PM",
+      "start_date_iso": "2026-02-06",
+      "end_date_iso": "2026-02-08",
+      "start_date_epoch": 1770384600,
+      "end_date_epoch": 1770559140,
+      "routes": [
+        "Ipswich/Rosewood Line",
+        "Springfield Line"
+      ],
+      "locations": [
+        "Roma Street",
+        "Rosewood",
+        "Springfield Central"
+      ],
+      "stops": null,
+      "keywords": [
+        "track closure",
+        "railbuses",
+        "Ipswich/Rosewood Line",
+        "Springfield Line",
+        "affected stations"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/954686",
+    "text": "From 2026-02-09 9:30 PM to 2026-02-09 11:59 PM, late night track closure on the Ipswich/Rosewood Line affects stations Darra, Wacol, Gailes, Goodna, Redbank, Riverview, Dinmore, Ebbw Vale, Bundamba, Booval, East Ipswich, and Ipswich. Railbuses will replace trains between Darra and Ipswich station.",
+    "metadata": {
+      "title": "Late night track closure - Ipswich line",
+      "url": "https://translink.com.au/updates/954686",
+      "category": "Major",
+      "start_date": "09/02/2026 9:30 PM",
+      "end_date": "11:59 PM",
+      "services": "Ipswich/Rosewood Line",
+      "start_date_raw": "09/02/2026 9:30 PM",
+      "end_date_raw": "11:59 PM",
+      "start_date_iso": "2026-02-09",
+      "end_date_iso": null,
+      "start_date_epoch": 1770636600,
+      "end_date_epoch": null,
+      "routes": [
+        "Ipswich/Rosewood Line"
+      ],
+      "locations": [
+        "Ipswich line",
+        "Darra",
+        "Wacol",
+        "Gailes",
+        "Goodna",
+        "Redbank",
+        "Riverview",
+        "Dinmore",
+        "Ebbw Vale",
+        "Bundamba",
+        "Booval",
+        "East Ipswich",
+        "Ipswich"
+      ],
+      "stops": [],
+      "keywords": [
+        "track closure",
+        "railbuses",
+        "Ipswich line",
+        "late night closure"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/954696",
+    "text": "From 2026-02-16 9:30 PM to 2026-02-17 11:59 PM, track closures on Ipswich/Rosewood and Springfield lines affected stations including Roma Street, Milton, Corinda, and others, with railbuses replacing trains between Roma Street and Corinda. Bikes and e-scooters are not permitted on railbuses.",
+    "metadata": {
+      "title": "Late night track closure - Ipswich and Springfield lines",
+      "url": "https://translink.com.au/updates/954696",
+      "category": "Major",
+      "start_date": "16/02/2026 9:30 PM",
+      "end_date": "17/02/2026 11:59 PM",
+      "services": "Ipswich/Rosewood Line, Springfield Line",
+      "start_date_raw": "16/02/2026 9:30 PM",
+      "end_date_raw": "17/02/2026 11:59 PM",
+      "start_date_iso": "2026-02-16",
+      "end_date_iso": "2026-02-17",
+      "start_date_epoch": 1771241400,
+      "end_date_epoch": 1771336740,
+      "routes": [
+        "Ipswich/Rosewood Line",
+        "Springfield Line"
+      ],
+      "locations": [
+        "Roma Street",
+        "Milton",
+        "Auchenflower",
+        "Toowong",
+        "Taringa",
+        "Indooroopilly",
+        "Chelmer",
+        "Graceville",
+        "Sherwood",
+        "Corinda"
+      ],
+      "stops": [],
+      "keywords": [
+        "track closure",
+        "railbuses",
+        "Ipswich line",
+        "Springfield line",
+        "station closures"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/954711",
+    "text": "From 2026-02-18 9:30 PM to 2026-02-19 11:59 PM, track closures on Beenleigh and Gold Coast lines affected stations including Boggo Road, Kuraby, and others. Railbuses replace trains between Boggo Road and Kuraby station.",
+    "metadata": {
+      "title": "Late night track closures - Beenleigh and Gold Coast lines",
+      "url": "https://translink.com.au/updates/954711",
+      "category": "Major",
+      "start_date": "18/02/2026 9:30 PM",
+      "end_date": "19/02/2026 11:59 PM",
+      "services": "Beenleigh Line, Gold Coast Line",
+      "start_date_raw": "18/02/2026 9:30 PM",
+      "end_date_raw": "19/02/2026 11:59 PM",
+      "start_date_iso": "2026-02-18",
+      "end_date_iso": "2026-02-19",
+      "start_date_epoch": 1771414200,
+      "end_date_epoch": 1771509540,
+      "routes": [
+        "Beenleigh Line",
+        "Gold Coast Line"
+      ],
+      "locations": [
+        "Boggo Road",
+        "Kuraby"
+      ],
+      "stops": [],
+      "keywords": [
+        "track closure",
+        "railbuses",
+        "Beenleigh Line",
+        "Gold Coast Line"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/954716",
+    "text": "From 23/02/2026 9:30 PM to 24/02/2026 11:59 PM, late night track closures on inner-city lines (Airport Line, Beenleigh Line, Cleveland Line, Doomben Line, Gold Coast Line, Ipswich/Rosewood Line, Springfield Line, Ferny Grove Line, Redcliffe Peninsula Line, Shorncliffe Line, Caboolture Line, Sunshine Coast Line) affect services between Albion, Bowen Hills, Fortitude Valley Central, Roma Street, Milton, and South Brisbane. Railbuses replace trains between Bowen Hills and Albion to South Brisbane and Milton stations.",
+    "metadata": {
+      "title": "Late night track closures - inner-city lines",
+      "url": "https://translink.com.au/updates/954716",
+      "category": "Major",
+      "start_date": "23/02/2026 9:30 PM",
+      "end_date": "24/02/2026 11:59 PM",
+      "services": "Airport Line, Beenleigh Line, Cleveland Line, ...",
+      "start_date_raw": "23/02/2026 9:30 PM",
+      "end_date_raw": "24/02/2026 11:59 PM",
+      "start_date_iso": "2026-02-23",
+      "end_date_iso": "2026-02-24",
+      "start_date_epoch": 1771846200,
+      "end_date_epoch": 1771941540,
+      "routes": [
+        "Airport Line",
+        "Beenleigh Line",
+        "Cleveland Line",
+        "Doomben Line",
+        "Gold Coast Line",
+        "Ipswich/Rosewood Line",
+        "Springfield Line",
+        "Ferny Grove Line",
+        "Redcliffe Peninsula Line",
+        "Shorncliffe Line",
+        "Caboolture Line",
+        "Sunshine Coast Line"
+      ],
+      "locations": [
+        "Albion",
+        "Bowen Hills",
+        "Fortitude Valley Central",
+        "Roma Street",
+        "Milton",
+        "South Brisbane"
+      ],
+      "stops": null,
+      "keywords": [
+        "track closure",
+        "railbuses",
+        "inner-city lines",
+        "late night disruption"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/954726",
+    "text": "From 2026-02-25 9:30 PM to 2026-02-25 11:59 PM, track closure affects all lines including Caboolture Line, Redcliffe Peninsula Line, Ferny Grove Line, Shorncliffe Line, Sunshine Coast Line, Airport Line, Beenleigh Line, Cleveland Line, Gold Coast Line, Ipswich/Rosewood Line, Springfield Line. Affected stations include Airport line, Eagle Junction, International Airport, Domestic Airport, Inner city, Bowen Hills, Fortitude Valley, Central, Roma Street, Inner north, Northgate, Ferny Grove, and others.",
+    "metadata": {
+      "title": "Late night track closure - inner city, inner north and Ferny Grove lines",
+      "url": "https://translink.com.au/updates/954726",
+      "category": "Major",
+      "start_date": "25/02/2026 9:30 PM",
+      "end_date": "11:59 PM",
+      "services": "Caboolture Line, Redcliffe Peninsula Line, ...",
+      "start_date_raw": "25/02/2026 9:30 PM",
+      "end_date_raw": "11:59 PM",
+      "start_date_iso": "2026-02-25",
+      "end_date_iso": null,
+      "start_date_epoch": 1772019000,
+      "end_date_epoch": null,
+      "routes": [
+        "Caboolture Line",
+        "Redcliffe Peninsula Line",
+        "Ferny Grove Line",
+        "Shorncliffe Line",
+        "Sunshine Coast Line",
+        "Airport Line",
+        "Beenleigh Line",
+        "Cleveland Line",
+        "Gold Coast Line",
+        "Ipswich/Rosewood Line",
+        "Springfield Line"
+      ],
+      "locations": [
+        "Airport line",
+        "Eagle Junction",
+        "International Airport",
+        "Domestic Airport",
+        "Inner city",
+        "Bowen Hills",
+        "Fortitude Valley",
+        "Central",
+        "Roma Street",
+        "Inner north",
+        "Northgate",
+        "Ferny Grove",
+        "Wilston",
+        "Newmarket",
+        "Alderley",
+        "Enoggera",
+        "Gaythorne",
+        "Mitchelton",
+        "Oxford Park",
+        "Grovely",
+        "Keperra"
+      ],
+      "stops": [],
+      "keywords": [
+        "track closure",
+        "railbuses",
+        "Ferny Grove",
+        "Northgate",
+        "inner city",
+        "inner north",
+        "last service",
+        "timetabled railbuses"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/954761",
+    "text": "From 2026-02-26 10:15 PM to 2026-02-26 11:59 PM, track closure on Shorncliffe Line, Caboolture Line, and Redcliffe Peninsula Line in Inner north. Railbuses will run between Bowen Hills to Northgate stations during the closure.",
+    "metadata": {
+      "title": "Late night track closure - inner north lines",
+      "url": "https://translink.com.au/updates/954761",
+      "category": "Major",
+      "start_date": "26/02/2026 10:15 PM",
+      "end_date": "11:59 PM",
+      "services": "Shorncliffe Line, Caboolture Line, ...",
+      "start_date_raw": "26/02/2026 10:15 PM",
+      "end_date_raw": "11:59 PM",
+      "start_date_iso": "2026-02-26",
+      "end_date_iso": null,
+      "start_date_epoch": 1772108100,
+      "end_date_epoch": null,
+      "routes": [
+        "Shorncliffe Line",
+        "Caboolture Line",
+        "Redcliffe Peninsula Line"
+      ],
+      "locations": [
+        "Inner north",
+        "Bowen Hills",
+        "Albion",
+        "Wooloowin",
+        "Eagle Junction",
+        "Toombul",
+        "Nundah",
+        "Northgate"
+      ],
+      "stops": [],
+      "keywords": [
+        "track closure",
+        "railbuses",
+        "Inner north",
+        "Shorncliffe Line",
+        "Caboolture Line",
+        "Redcliffe Peninsula Line",
+        "Bowen Hills",
+        "Northgate"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/954846",
+    "text": "From 2026-01-31 4:00 AM to 2026-02-01 11:59 PM, track closure on Caboolture, Redcliffe Peninsula, Shorncliffe, and Sunshine Coast lines. Railbuses will replace trains between Eagle Junction to Gympie North, Shorncliffe, and Kippa Ring stations. Bikes and e-scooters are not permitted on railbuses.",
+    "metadata": {
+      "title": "Weekend track closure - Caboolture, Redcliffe Peninsula, Shorncliffe and Sunshine Coast lines",
+      "url": "https://translink.com.au/updates/954846",
+      "category": "Major",
+      "start_date": "31/01/2026 4:00 AM",
+      "end_date": "01/02/2026 11:59 PM",
+      "services": "Caboolture Line, Shorncliffe Line, ...",
+      "start_date_raw": "31/01/2026 4:00 AM",
+      "end_date_raw": "01/02/2026 11:59 PM",
+      "start_date_iso": "2026-01-31",
+      "end_date_iso": "2026-02-01",
+      "start_date_epoch": 1769796000,
+      "end_date_epoch": 1769954340,
+      "routes": [
+        "Caboolture Line",
+        "Redcliffe Peninsula Line",
+        "Shorncliffe Line",
+        "Sunshine Coast Line"
+      ],
+      "locations": [
+        "Eagle Junction",
+        "Gympie North",
+        "Shorncliffe",
+        "Kippa Ring"
+      ],
+      "stops": [],
+      "keywords": [
+        "track closure",
+        "railbus",
+        "bikes not allowed",
+        "Shorncliffe Line",
+        "Caboolture Line",
+        "Sunshine Coast Line",
+        "Redcliffe Peninsula Line"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/954871",
+    "text": "From 2026-02-13 11:00 PM to 2026-02-15 11:59 PM, track closure on Beenleigh and Gold Coast lines. Railbuses will replace trains between Boggo Road and Varsity Lakes stations. Bikes and e-scooters are not permitted on railbuses.",
+    "metadata": {
+      "title": "Weekend track closure - Beenleigh and Gold Coast lines",
+      "url": "https://translink.com.au/updates/954871",
+      "category": "Major",
+      "start_date": "13/02/2026 11:00 PM",
+      "end_date": "15/02/2026 11:59 PM",
+      "services": "Beenleigh Line, Gold Coast Line",
+      "start_date_raw": "13/02/2026 11:00 PM",
+      "end_date_raw": "15/02/2026 11:59 PM",
+      "start_date_iso": "2026-02-13",
+      "end_date_iso": "2026-02-15",
+      "start_date_epoch": 1770987600,
+      "end_date_epoch": 1771163940,
+      "routes": [
+        "Beenleigh Line",
+        "Gold Coast Line"
+      ],
+      "locations": [
+        "Boggo Road",
+        "Varsity Lakes",
+        "Beenleigh Line",
+        "Gold Coast Line"
+      ],
+      "stops": [],
+      "keywords": [
+        "track closure",
+        "railbuses",
+        "Beenleigh Line",
+        "Gold Coast Line",
+        "bike restrictions"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/954886",
+    "text": "From 2026-02-28 4:00 AM to 2026-03-01 11:59 PM, track closures on inner-city and Southern lines affect Beenleigh Line, Ipswich/Rosewood Line, Springfield Line, Cleveland Line, Gold Coast Line, Airport Line, Caboolture Line, Doomben Line, Ferny Grove Line, Redcliffe Peninsula Line, Shorncliffe Line, and Sunshine Coast Line. Railbuses replace trains between Bowen Hills and Roma Street to Cannon Hill, Banoon, Corinda stations, with restrictions on bikes and e-scooters.",
+    "metadata": {
+      "title": "Weekend track closure - inner-city and Southern lines",
+      "url": "https://translink.com.au/updates/954886",
+      "category": "Major",
+      "start_date": "28/02/2026 4:00 AM",
+      "end_date": "01/03/2026 11:59 PM",
+      "services": "Beenleigh Line, Ipswich/Rosewood Line, ...",
+      "start_date_raw": "28/02/2026 4:00 AM",
+      "end_date_raw": "01/03/2026 11:59 PM",
+      "start_date_iso": "2026-02-28",
+      "end_date_iso": "2026-03-01",
+      "start_date_epoch": 1772215200,
+      "end_date_epoch": 1772373540,
+      "routes": [
+        "Beenleigh Line",
+        "Ipswich/Rosewood Line",
+        "Springfield Line",
+        "Cleveland Line",
+        "Gold Coast Line",
+        "Airport Line",
+        "Caboolture Line",
+        "Doomben Line",
+        "Ferny Grove Line",
+        "Redcliffe Peninsula Line",
+        "Shorncliffe Line",
+        "Sunshine Coast Line"
+      ],
+      "locations": [
+        "Fortitude Valley Central",
+        "Roma Street",
+        "South Brisbane",
+        "Southbank",
+        "Boggo Road",
+        "Dutton Park",
+        "Fairfield",
+        "Yeronga",
+        "Yeerongpilly",
+        "Moorooka",
+        "Rocklea",
+        "Salisbury",
+        "Coopers Plains",
+        "Cleveland",
+        "Chelmer",
+        "Graceville",
+        "Sherwood",
+        "Springfield"
+      ],
+      "stops": [],
+      "keywords": [
+        "track closure",
+        "railbuses",
+        "inner-city lines",
+        "Southern lines",
+        "affected stations",
+        "timetabled railbuses"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/957971",
+    "text": "On 2026-01-27 5:00 AM, there will be a minor timetable change for route 555, affecting South East Queensland Bus 555 with possible slight variations in arrival and departure times. Please check the updated timetable for affected journeys.",
+    "metadata": {
+      "title": "Route 555  minor timetable change",
+      "url": "https://translink.com.au/updates/957971",
+      "category": "Informative",
+      "start_date": "27/01/2026 5:00 AM",
+      "end_date": null,
+      "services": "555",
+      "start_date_raw": "27/01/2026 5:00 AM",
+      "end_date_raw": null,
+      "start_date_iso": "2026-01-27",
+      "end_date_iso": null,
+      "start_date_epoch": 1769454000,
+      "end_date_epoch": null,
+      "routes": [
+        "555"
+      ],
+      "locations": null,
+      "stops": null,
+      "keywords": [
+        "timetable change",
+        "route 555",
+        "South East Queensland Bus 555"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/958091",
+    "text": "On 2026-01-27 5:00 AM, minor timetable changes for route 546 may cause slight delays or early arrivals. Replan travel using a date from Tuesday 27 January or check the updated timetable for affected journeys.",
+    "metadata": {
+      "title": "Route 546  minor timetable changes",
+      "url": "https://translink.com.au/updates/958091",
+      "category": "Minor",
+      "start_date": "27/01/2026 5:00 AM",
+      "end_date": null,
+      "services": "546",
+      "start_date_raw": "27/01/2026 5:00 AM",
+      "end_date_raw": null,
+      "start_date_iso": "2026-01-27",
+      "end_date_iso": null,
+      "start_date_epoch": 1769454000,
+      "end_date_epoch": null,
+      "routes": [
+        "546"
+      ],
+      "locations": null,
+      "stops": null,
+      "keywords": [
+        "Minor",
+        "timetable changes",
+        "replan travel",
+        "updated timetable"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/958151",
+    "text": "From 2026-01-15 12:00 AM to 2026-02-03 4:00 PM, temporary stop closures affected route 463 at Boundary Rd at Campbell Avenue, Wacol (Stop IDs 013108 and 013109). Alternate stops are available for route 463 towards Forest Lake and Goodna.",
+    "metadata": {
+      "title": "Boundary Road, Wacol - temporary stop closure",
+      "url": "https://translink.com.au/updates/958151",
+      "category": "Major",
+      "start_date": "15/01/2026 12:00 AM",
+      "end_date": "03/02/2026 4:00 PM",
+      "services": "Boundary Rd at Campbell Avenue (013108), ...",
+      "start_date_raw": "15/01/2026 12:00 AM",
+      "end_date_raw": "03/02/2026 4:00 PM",
+      "start_date_iso": "2026-01-15",
+      "end_date_iso": "2026-02-03",
+      "start_date_epoch": 1768399200,
+      "end_date_epoch": 1770098400,
+      "routes": [
+        "463"
+      ],
+      "locations": [
+        "Boundary Rd at Campbell Avenue, Wacol"
+      ],
+      "stops": [
+        "013108",
+        "013109"
+      ],
+      "keywords": [
+        "temporary stop closure",
+        "electrical works",
+        "Boundary Road",
+        "Wacol",
+        "route 463"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/958616",
+    "text": "On 2026-01-26 4:00 AM, route 182 services towards Garden City will start from stop 57/61 on Bapaume Road near Sterculia Avenue under Holland Park West station. Route changes will remove service to Cannes Street and Bapaume Road stops including IDs 002272, 002275, 000573, 010524. Replan travel using updated routes.",
+    "metadata": {
+      "title": "Route 182 - Holland Park West stop and route changes",
+      "url": "https://translink.com.au/updates/958616",
+      "category": "Minor",
+      "start_date": "26/01/2026 4:00 AM",
+      "end_date": null,
+      "services": "182",
+      "start_date_raw": "26/01/2026 4:00 AM",
+      "end_date_raw": null,
+      "start_date_iso": "2026-01-26",
+      "end_date_iso": null,
+      "start_date_epoch": 1769364000,
+      "end_date_epoch": null,
+      "routes": [
+        "182"
+      ],
+      "locations": [
+        "Holland Park West",
+        "Bapaume Road",
+        "Sterculia Avenue",
+        "Cannes Street",
+        "Garden City"
+      ],
+      "stops": [
+        "002274",
+        "002272",
+        "002275",
+        "000573",
+        "010524"
+      ],
+      "keywords": [
+        "route changes",
+        "stop closures",
+        "Holland Park West",
+        "Bapaume Road",
+        "Garden City",
+        "service 182"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/959311",
+    "text": "From 2026-01-27, Bundaberg Bus routes 621, 622, 670-682 will be operated by Kinetic Bundaberg with no timetable changes. School services include routes between Nolans Pocket, Woongarra SS, Sharon, and Bundaberg North SHS.",
+    "metadata": {
+      "title": "Bundaberg delivery partner change",
+      "url": "https://translink.com.au/updates/959311",
+      "category": "Informative",
+      "start_date": "27/01/2026 2:00 AM",
+      "end_date": null,
+      "services": "672, 673, 674, 675, 676, 677, 678, 679, 680, ...",
+      "start_date_raw": "27/01/2026 2:00 AM",
+      "end_date_raw": null,
+      "start_date_iso": "2026-01-27",
+      "end_date_iso": null,
+      "start_date_epoch": 1769443200,
+      "end_date_epoch": null,
+      "routes": [
+        "621",
+        "622",
+        "670",
+        "671",
+        "672",
+        "673",
+        "674",
+        "675",
+        "676",
+        "677",
+        "678",
+        "679",
+        "680",
+        "681",
+        "682"
+      ],
+      "locations": [
+        "Bundaberg",
+        "Nolans Pocket",
+        "Woongarra SS",
+        "Sharon",
+        "Bundaberg North SHS",
+        "Elliott Heads",
+        "St Patrick's Primary",
+        "Coral Cove",
+        "Innes Park",
+        "Calavos",
+        "Moore Park Beach"
+      ],
+      "stops": null,
+      "keywords": [
+        "delivery partner change",
+        "Kinetic Bundaberg",
+        "school services",
+        "route operator change"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/959906",
+    "text": "On 2026-02-02 4:00 AM, permanent stop closures affected route 902 on Phyllis Street near Anzac Ave in Harristown. Use alternative stops on Glenvale Road.",
+    "metadata": {
+      "title": "Phyllis Street, Harristown - permanent stop closure",
+      "url": "https://translink.com.au/updates/959906",
+      "category": "Major",
+      "start_date": "02/02/2026 4:00 AM",
+      "end_date": null,
+      "services": "...",
+      "start_date_raw": "02/02/2026 4:00 AM",
+      "end_date_raw": null,
+      "start_date_iso": "2026-02-02",
+      "end_date_iso": null,
+      "start_date_epoch": 1769968800,
+      "end_date_epoch": null,
+      "routes": [
+        "902"
+      ],
+      "locations": [
+        "Phyllis Street",
+        "Anzac Avenue",
+        "Harristown"
+      ],
+      "stops": [
+        "881117",
+        "882427",
+        "880819",
+        "880414"
+      ],
+      "keywords": [
+        "permanent closure",
+        "Phyllis Street",
+        "Anzac Avenue",
+        "route 902",
+        "Harristown",
+        "stop closure",
+        "alternative stops"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/961356",
+    "text": "From 2026-01-27 to 2026-01-30, temporary stop closures affect routes 705, 3104, and 3445 on Main Beach Parade, Main Beach. Closed stops include Main Beach Pde at Main Beach Tourist Park (IDs 300321, 300318) with alternative stops available at Woodroffe Avenue (IDs 300319, 300323).",
+    "metadata": {
+      "title": "Main Beach Parade, Main Beach - temporary stop closure",
+      "url": "https://translink.com.au/updates/961356",
+      "category": "Major",
+      "start_date": "27/01/2026 12:00 AM",
+      "end_date": "30/01/2026 11:59 PM",
+      "services": "...",
+      "start_date_raw": "27/01/2026 12:00 AM",
+      "end_date_raw": "30/01/2026 11:59 PM",
+      "start_date_iso": "2026-01-27",
+      "end_date_iso": "2026-01-30",
+      "start_date_epoch": 1769436000,
+      "end_date_epoch": 1769781540,
+      "routes": [
+        "705",
+        "3104",
+        "3445"
+      ],
+      "locations": [
+        "Main Beach Parade",
+        "Main Beach Tourist Park",
+        "Woodroffe Avenue"
+      ],
+      "stops": [
+        "300321",
+        "300318"
+      ],
+      "keywords": [
+        "Main Beach Parade",
+        "roadworks",
+        "stop closure",
+        "alternative stops"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/961506",
+    "text": "From 2026-02-07 4:00 AM to 2026-03-01 11:59 PM, track closures on the Shorncliffe Line between Northgate and Sandgate stations for ETCS testing. Timetabled railbuses will replace trains during the closure period, with affected stations including Northgate, Bindha, Banyo, Nudgee, Boondall, North Boondall, Deagon, Sandgate, and Shorncliffe.",
+    "metadata": {
+      "title": "Weekend track closures - Shorncliffe line",
+      "url": "https://translink.com.au/updates/961506",
+      "category": "Major",
+      "start_date": "07/02/2026 4:00 AM",
+      "end_date": "01/03/2026 11:59 PM",
+      "services": "Shorncliffe Line",
+      "start_date_raw": "07/02/2026 4:00 AM",
+      "end_date_raw": "01/03/2026 11:59 PM",
+      "start_date_iso": "2026-02-07",
+      "end_date_iso": "2026-03-01",
+      "start_date_epoch": 1770400800,
+      "end_date_epoch": 1772373540,
+      "routes": [
+        "Shorncliffe Line"
+      ],
+      "locations": [
+        "Northgate",
+        "Sandgate"
+      ],
+      "stops": [
+        "Northgate",
+        "Bindha",
+        "Banyo",
+        "Nudgee",
+        "Boondall",
+        "North Boondall",
+        "Deagon",
+        "Sandgate",
+        "Shorncliffe"
+      ],
+      "keywords": [
+        "track closures",
+        "ETCS testing",
+        "railbuses",
+        "Shorncliffe Line",
+        "Northgate",
+        "Sandgate"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/962911",
+    "text": "From 2026-02-06 6:00 AM to 2026-02-07 12:00 PM, temporary stop closures affect routes 705 and 716 at Esplanade, Hervey Bay due to the Queensland State Schools Triathlon. Alternative stops are available at specified locations.",
+    "metadata": {
+      "title": "Esplanade, Hervey Bay - temporary stop closures",
+      "url": "https://translink.com.au/updates/962911",
+      "category": "Major",
+      "start_date": "06/02/2026 6:00 AM",
+      "end_date": "07/02/2026 12:00 PM",
+      "services": "705, 716, Esplanade at Fraser Street (840058), ...",
+      "start_date_raw": "06/02/2026 6:00 AM",
+      "end_date_raw": "07/02/2026 12:00 PM",
+      "start_date_iso": "2026-02-06",
+      "end_date_iso": "2026-02-07",
+      "start_date_epoch": 1770321600,
+      "end_date_epoch": 1770429600,
+      "routes": [
+        "705",
+        "716"
+      ],
+      "locations": [
+        "Esplanade, Hervey Bay"
+      ],
+      "stops": [
+        "840058",
+        "840059",
+        "840060",
+        "840071",
+        "840073",
+        "840077",
+        "840282",
+        "840478"
+      ],
+      "keywords": [
+        "Queensland State Schools Triathlon",
+        "Esplanade, Hervey Bay",
+        "705",
+        "716"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/963416",
+    "text": "From 2026-02-03 to 2026-02-04 1:00 AM, the stop on Gold Coast Highway at Twenty Fifth Avenue, Palm Beach (Stop ID 300423) is closed due to construction works. Affected routes 700 and 760 should use alternative stops at Twenty Seventh Avenue and Twenty First Avenue.",
+    "metadata": {
+      "title": "Gold Coast Highway, Palm Beach - late night stop closure",
+      "url": "https://translink.com.au/updates/963416",
+      "category": "Major",
+      "start_date": "03/02/2026 8:00 PM",
+      "end_date": "04/02/2026 1:00 AM",
+      "services": "Gold Coast Hwy at Twenty Fifth Avenue (300423)",
+      "start_date_raw": "03/02/2026 8:00 PM",
+      "end_date_raw": "04/02/2026 1:00 AM",
+      "start_date_iso": "2026-02-03",
+      "end_date_iso": "2026-02-04",
+      "start_date_epoch": 1770112800,
+      "end_date_epoch": 1770130800,
+      "routes": [
+        "700",
+        "760"
+      ],
+      "locations": [
+        "Gold Coast Highway at Twenty Fifth Avenue, Palm Beach"
+      ],
+      "stops": [
+        "300423"
+      ],
+      "keywords": [
+        "construction",
+        "alternative stops",
+        "route 700",
+        "route 760"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/963476",
+    "text": "On 2026-01-27, temporary stop closures affected routes 19 and 116 at Ipswich Road, Moorooka station. Use alternative stop 38/90 (Stop ID 010396) due to Cross River Rail works upgrades.",
+    "metadata": {
+      "title": "Ipswich Road, Moorooka - temporary stop closure",
+      "url": "https://translink.com.au/updates/963476",
+      "category": "Major",
+      "start_date": "27/01/2026 12:00 AM",
+      "end_date": null,
+      "services": "Ipswich Rd at Moorooka station (051696)",
+      "start_date_raw": "27/01/2026 12:00 AM",
+      "end_date_raw": null,
+      "start_date_iso": "2026-01-27",
+      "end_date_iso": null,
+      "start_date_epoch": 1769436000,
+      "end_date_epoch": null,
+      "routes": [
+        "19",
+        "116"
+      ],
+      "locations": [
+        "Ipswich Road, Moorooka station"
+      ],
+      "stops": [
+        "051696",
+        "010396"
+      ],
+      "keywords": [
+        "Moorooka station",
+        "Cross River Rail",
+        "temporary closure",
+        "alternative stop"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/963546",
+    "text": "On 2026-01-22, permanent stop closures at Annette Kellerman Park, Mermaid Beach affected route 700. Use alternative stops near Tamborine Street for route 700.",
+    "metadata": {
+      "title": "Annette Kellerman Park, Mermaid Beach - permanent stop closure",
+      "url": "https://translink.com.au/updates/963546",
+      "category": "Major",
+      "start_date": "22/01/2026 12:00 AM",
+      "end_date": null,
+      "services": "...",
+      "start_date_raw": "22/01/2026 12:00 AM",
+      "end_date_raw": null,
+      "start_date_iso": "2026-01-22",
+      "end_date_iso": null,
+      "start_date_epoch": 1769004000,
+      "end_date_epoch": null,
+      "routes": [
+        "700"
+      ],
+      "locations": [
+        "Annette Kellerman Park",
+        "Mermaid Beach"
+      ],
+      "stops": [
+        "300333",
+        "300338",
+        "300344",
+        "300332"
+      ],
+      "keywords": [
+        "permanent closure",
+        "light rail works",
+        "route 700",
+        "Annette Kellerman Park",
+        "Mermaid Beach"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/963731",
+    "text": "From 2026-02-06 8:30 AM to 3:00 PM, temporary stop closures affected route 574 at Springwood Rd at Flinders View (Stop ID 311075). Use the temporary stop approximately 175m away on Springwood Road.",
+    "metadata": {
+      "title": "Springwood Road, Springwood - temporary stop closure",
+      "url": "https://translink.com.au/updates/963731",
+      "category": "Major",
+      "start_date": "06/02/2026 8:30 AM",
+      "end_date": "3:00 PM",
+      "services": "Springwood Rd at Flinders View (311075)",
+      "start_date_raw": "06/02/2026 8:30 AM",
+      "end_date_raw": "3:00 PM",
+      "start_date_iso": "2026-02-06",
+      "end_date_iso": null,
+      "start_date_epoch": 1770330600,
+      "end_date_epoch": null,
+      "routes": [
+        "574"
+      ],
+      "locations": [
+        "Springwood Rd at Flinders View, Springwood"
+      ],
+      "stops": [
+        "311075"
+      ],
+      "keywords": [
+        "electrical works",
+        "temporary stop closure",
+        "route 574",
+        "Springwood Rd"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/965791",
+    "text": "From 2026-02-02 9:00 AM to 2026-02-13 3:30 PM, Gold Coast trains from Ormeau to Varsity Lakes will run eight minutes late between 9:00 AM and 3:30 PM daily, impacting routes 721, 722, 728, 729, 724, 732, 733, 723, 725, 727, Tx7, 704, 710, 714, 715, 716, 717, 718, 725, 727, Tx7, 735, 740, 743, 744, 745, 748, 747, 748, 750, 751, 752, 755, 758, 759, 753, 757, 759, 760, 765 at Ormeau, Coomera, Helensvale, Nerang, Robina, Varsity Lakes, and Pimpama stations. Trains from Varsity Lakes to the city are unaffected.",
+    "metadata": {
+      "title": "Ormeau to Varsity Lakes - temporary train timetable changes",
+      "url": "https://translink.com.au/updates/965791",
+      "category": "Minor",
+      "start_date": "02/02/2026 9:00 AM",
+      "end_date": "13/02/2026 3:30 PM",
+      "services": "Ormeau station, Coomera station, ...",
+      "start_date_raw": "02/02/2026 9:00 AM",
+      "end_date_raw": "13/02/2026 3:30 PM",
+      "start_date_iso": "2026-02-02",
+      "end_date_iso": "2026-02-13",
+      "start_date_epoch": 1769986800,
+      "end_date_epoch": 1770960600,
+      "routes": [
+        "721",
+        "722",
+        "728",
+        "729",
+        "724",
+        "732",
+        "733",
+        "723",
+        "725",
+        "727",
+        "Tx7",
+        "704",
+        "710",
+        "714",
+        "715",
+        "716",
+        "717",
+        "718",
+        "735",
+        "740",
+        "743",
+        "744",
+        "745",
+        "748",
+        "747",
+        "750",
+        "751",
+        "752",
+        "755",
+        "758",
+        "759",
+        "753",
+        "757",
+        "760",
+        "765"
+      ],
+      "locations": [
+        "Ormeau",
+        "Coomera",
+        "Helensvale",
+        "Nerang",
+        "Robina",
+        "Varsity Lakes",
+        "Pimpama"
+      ],
+      "stops": [
+        "Ormeau station",
+        "Coomera station",
+        "Helensvale station",
+        "Nerang station",
+        "Robina station",
+        "Varsity Lakes station",
+        "Pimpama station"
+      ],
+      "keywords": [
+        "Hope Island station works",
+        "train delays",
+        "timetable changes",
+        "Gold Coast trains",
+        "delayed services"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/967266",
+    "text": "From 2026-02-09 to 2026-05-01, temporary stop closures on Cooroy Street near Coochin St, Dicky Beach affected routes 600, 607, and school services 5541, 5551, 5702, 5717. Use alternative stops listed in the notice.",
+    "metadata": {
+      "title": "Cooroy Street, Dicky Beach - temporary stop closure",
+      "url": "https://translink.com.au/updates/967266",
+      "category": "Major",
+      "start_date": "09/02/2026 12:00 AM",
+      "end_date": "01/05/2026 11:59 PM",
+      "services": "Cooroy St near Coochin St (301981), ...",
+      "start_date_raw": "09/02/2026 12:00 AM",
+      "end_date_raw": "01/05/2026 11:59 PM",
+      "start_date_iso": "2026-02-09",
+      "end_date_iso": "2026-05-01",
+      "start_date_epoch": 1770559200,
+      "end_date_epoch": 1777643940,
+      "routes": [
+        "600",
+        "607",
+        "5541",
+        "5551",
+        "5702",
+        "5717"
+      ],
+      "locations": [
+        "Cooroy St near Coochin St, Dicky Beach"
+      ],
+      "stops": [
+        "301981",
+        "301982"
+      ],
+      "keywords": [
+        "road works",
+        "stop closure",
+        "alternative stops",
+        "Dicky Beach"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/967686",
+    "text": "From 2026-01-29 8:23 AM, routes 737 and 741 will miss the stop Benowa Rd at Collins Crescent, Benowa (Stop ID 300101) due to emergency works. Other affected stops include Benowa Rd at St Kevins Catholic Primary (320958), Benowa Rd at Sapium Road, Ashmore (300067), and Heeb St at Gold Coast TAFE Ashmore (300081).",
+    "metadata": {
+      "title": "Stop missed - Benowa Rd at Collins Crescent, Benowa",
+      "url": "https://translink.com.au/updates/967686",
+      "category": "Minor",
+      "start_date": "29/01/2026 8:23 AM",
+      "end_date": null,
+      "services": "Benowa Rd at Collins Crescent (300101)",
+      "start_date_raw": "29/01/2026 8:23 AM",
+      "end_date_raw": null,
+      "start_date_iso": "2026-01-29",
+      "end_date_iso": null,
+      "start_date_epoch": 1769638980,
+      "end_date_epoch": null,
+      "routes": [
+        "737",
+        "741"
+      ],
+      "locations": [
+        "Benowa Rd at Collins Crescent, Benowa",
+        "Benowa Rd at St Kevins Catholic Primary, Benowa",
+        "Benowa Rd at Sapium Road, Ashmore",
+        "Heeb St at Gold Coast TAFE Ashmore, Ashmore"
+      ],
+      "stops": [
+        "300101",
+        "320958",
+        "300067",
+        "300081"
+      ],
+      "keywords": [
+        "emergency works",
+        "stop closures",
+        "route disruptions"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/968971",
+    "text": "On 2026-01-30 4:33 AM, Route 131 towards Raintrees Shopping Centre is missing the stop at Woodward Street and McManus Street, Whitfield due to road works.",
+    "metadata": {
+      "title": "Stop missed - Woodward Street at McManus Street, Whitfield",
+      "url": "https://translink.com.au/updates/968971",
+      "category": "Minor",
+      "start_date": "30/01/2026 4:33 AM",
+      "end_date": null,
+      "services": "Woodward Street at McManus Street (750465)",
+      "start_date_raw": "30/01/2026 4:33 AM",
+      "end_date_raw": null,
+      "start_date_iso": "2026-01-30",
+      "end_date_iso": null,
+      "start_date_epoch": 1769711580,
+      "end_date_epoch": null,
+      "routes": [
+        "131"
+      ],
+      "locations": [
+        "Woodward Street at McManus Street, Whitfield"
+      ],
+      "stops": [
+        "750465"
+      ],
+      "keywords": [
+        "Minor",
+        "road works",
+        "stop closure",
+        "Route 131",
+        "Woodward Street",
+        "McManus Street"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/969331",
+    "text": "On 2026-01-30 12:06 PM, the route 732 to Robina is cancelled due to staff availability, affecting service 752.",
+    "metadata": {
+      "title": "12:06pm route 732 to Robina cancelled",
+      "url": "https://translink.com.au/updates/969331",
+      "category": "Major",
+      "start_date": "30/01/2026 12:06 PM",
+      "end_date": null,
+      "services": "752",
+      "start_date_raw": "30/01/2026 12:06 PM",
+      "end_date_raw": null,
+      "start_date_iso": "2026-01-30",
+      "end_date_iso": null,
+      "start_date_epoch": 1769738760,
+      "end_date_epoch": null,
+      "routes": [
+        "732",
+        "752"
+      ],
+      "locations": [
+        "Robina"
+      ],
+      "stops": null,
+      "keywords": [
+        "route 732",
+        "Robina",
+        "staff availability",
+        "service 752"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/969336",
+    "text": "On 2026-01-30 12:49 PM, the route 760 to Tweed Heads is cancelled due to staff availability.",
+    "metadata": {
+      "title": "12:49pm route 760 to Tweed Heads cancelled",
+      "url": "https://translink.com.au/updates/969336",
+      "category": "Minor",
+      "start_date": "30/01/2026 12:49 PM",
+      "end_date": null,
+      "services": "760",
+      "start_date_raw": "30/01/2026 12:49 PM",
+      "end_date_raw": null,
+      "start_date_iso": "2026-01-30",
+      "end_date_iso": null,
+      "start_date_epoch": 1769741340,
+      "end_date_epoch": null,
+      "routes": [
+        "760"
+      ],
+      "locations": [
+        "Tweed Heads"
+      ],
+      "stops": null,
+      "keywords": [
+        "staff availability",
+        "route 760",
+        "Tweed Heads"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/969341",
+    "text": "On 2026-01-30 11:50 AM, route 404 to The Range was cancelled. This service notice has been resolved.",
+    "metadata": {
+      "title": "11:50am route 404 to The Range cancelled",
+      "url": "https://translink.com.au/updates/969341",
+      "category": "Major",
+      "start_date": "30/01/2026 11:50 AM",
+      "end_date": null,
+      "services": "404",
+      "start_date_raw": "30/01/2026 11:50 AM",
+      "end_date_raw": null,
+      "start_date_iso": "2026-01-30",
+      "end_date_iso": null,
+      "start_date_epoch": 1769737800,
+      "end_date_epoch": null,
+      "routes": [
+        "404"
+      ],
+      "locations": [
+        "The Range"
+      ],
+      "stops": [],
+      "keywords": [
+        "cancelled",
+        "route 404",
+        "The Range"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/969346",
+    "text": "On 2026-01-30 12:40 PM, route 404 to Kawana is cancelled due to staff availability.",
+    "metadata": {
+      "title": "12:40pm route 404 to Kawana cancelled",
+      "url": "https://translink.com.au/updates/969346",
+      "category": "Major",
+      "start_date": "30/01/2026 12:40 PM",
+      "end_date": null,
+      "services": "404",
+      "start_date_raw": "30/01/2026 12:40 PM",
+      "end_date_raw": null,
+      "start_date_iso": "2026-01-30",
+      "end_date_iso": null,
+      "start_date_epoch": 1769740800,
+      "end_date_epoch": null,
+      "routes": [
+        "404"
+      ],
+      "locations": [
+        "Kawana"
+      ],
+      "stops": null,
+      "keywords": [
+        "route 404",
+        "Kawana",
+        "staff availability",
+        "cancelled"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/969351",
+    "text": "On 2026-01-30 11:43 AM, the route 905 to Darling Heights is delayed up to 18 minutes due to late running of a previous service.",
+    "metadata": {
+      "title": "11:43am route 905 to Darling Heights delayed up to 18 minutes",
+      "url": "https://translink.com.au/updates/969351",
+      "category": "Minor",
+      "start_date": "30/01/2026 11:43 AM",
+      "end_date": null,
+      "services": "905",
+      "start_date_raw": "30/01/2026 11:43 AM",
+      "end_date_raw": null,
+      "start_date_iso": "2026-01-30",
+      "end_date_iso": null,
+      "start_date_epoch": 1769737380,
+      "end_date_epoch": null,
+      "routes": [
+        "905"
+      ],
+      "locations": [
+        "Darling Heights"
+      ],
+      "stops": [],
+      "keywords": [
+        "delay",
+        "route 905",
+        "Darling Heights",
+        "late running"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/969356",
+    "text": "On 2026-01-30 11:43 AM, the route 907 to Darling Heights is delayed up to 23 minutes due to late running of a previous service.",
+    "metadata": {
+      "title": "11:43am route 907 to Darling Heights delayed up to 23 minutes",
+      "url": "https://translink.com.au/updates/969356",
+      "category": "Minor",
+      "start_date": "30/01/2026 11:43 AM",
+      "end_date": null,
+      "services": "907",
+      "start_date_raw": "30/01/2026 11:43 AM",
+      "end_date_raw": null,
+      "start_date_iso": "2026-01-30",
+      "end_date_iso": null,
+      "start_date_epoch": 1769737380,
+      "end_date_epoch": null,
+      "routes": [
+        "907"
+      ],
+      "locations": [
+        "Darling Heights"
+      ],
+      "stops": [],
+      "keywords": [
+        "delay",
+        "route 907",
+        "Darling Heights"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/969361",
+    "text": "On 2026-01-30, the 11:55am route 616 to Palmview is delayed up to 15 minutes due to late running of a previous service.",
+    "metadata": {
+      "title": "11:55am route 616 to Palmview delayed up to 15 minutes",
+      "url": "https://translink.com.au/updates/969361",
+      "category": "Minor",
+      "start_date": "30/01/2026 11:55 AM",
+      "end_date": null,
+      "services": "616",
+      "start_date_raw": "30/01/2026 11:55 AM",
+      "end_date_raw": null,
+      "start_date_iso": "2026-01-30",
+      "end_date_iso": null,
+      "start_date_epoch": 1769738100,
+      "end_date_epoch": null,
+      "routes": [
+        "616"
+      ],
+      "locations": [
+        "Palmview"
+      ],
+      "stops": null,
+      "keywords": [
+        "delayed",
+        "15 minutes",
+        "route 616",
+        "Palmview",
+        "previous service",
+        "late running"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/969366",
+    "text": "On 2026-01-30 11:38 AM, the route 902 to Toowoomba is delayed up to 32 minutes due to mechanical issues affecting Toowoomba Bus 902.",
+    "metadata": {
+      "title": "11:38am route 902 to Toowoomba delayed up to 32 minutes",
+      "url": "https://translink.com.au/updates/969366",
+      "category": "Major",
+      "start_date": "30/01/2026 11:38 AM",
+      "end_date": null,
+      "services": "902",
+      "start_date_raw": "30/01/2026 11:38 AM",
+      "end_date_raw": null,
+      "start_date_iso": "2026-01-30",
+      "end_date_iso": null,
+      "start_date_epoch": 1769737080,
+      "end_date_epoch": null,
+      "routes": [
+        "902"
+      ],
+      "locations": [
+        "Toowoomba"
+      ],
+      "stops": null,
+      "keywords": [
+        "mechanical issues",
+        "delay",
+        "Toowoomba"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/969371",
+    "text": "On 2026-01-30 12:05 PM, route 694 to Kippa-Ring is delayed up to 15 minutes due to boarding delays.",
+    "metadata": {
+      "title": "12:05pm route 694 to Kippa-Ring delayed up to 15 minutes",
+      "url": "https://translink.com.au/updates/969371",
+      "category": "Minor",
+      "start_date": "30/01/2026 12:05 PM",
+      "end_date": null,
+      "services": "694",
+      "start_date_raw": "30/01/2026 12:05 PM",
+      "end_date_raw": null,
+      "start_date_iso": "2026-01-30",
+      "end_date_iso": null,
+      "start_date_epoch": 1769738700,
+      "end_date_epoch": null,
+      "routes": [
+        "694"
+      ],
+      "locations": [
+        "Kippa-Ring"
+      ],
+      "stops": [],
+      "keywords": null
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/969376",
+    "text": "On 2026-01-30 12:02 PM, route 902 to Glenvale is delayed up to 15 minutes due to congestion.",
+    "metadata": {
+      "title": "12:02pm route 902 to Glenvale delayed up to 15 minutes",
+      "url": "https://translink.com.au/updates/969376",
+      "category": "Minor",
+      "start_date": "30/01/2026 12:02 PM",
+      "end_date": null,
+      "services": "902",
+      "start_date_raw": "30/01/2026 12:02 PM",
+      "end_date_raw": null,
+      "start_date_iso": "2026-01-30",
+      "end_date_iso": null,
+      "start_date_epoch": 1769738520,
+      "end_date_epoch": null,
+      "routes": [
+        "902"
+      ],
+      "locations": [
+        "Glenvale"
+      ],
+      "stops": null,
+      "keywords": [
+        "delay",
+        "congestion",
+        "route 902",
+        "Glenvale"
+      ]
+    }
+  },
+  {
+    "id": "https://translink.com.au/updates/969381",
+    "text": "On 2026-01-30 11:48 AM, route 907 to Cranley is delayed up to 18 minutes due to congestion.",
+    "metadata": {
+      "title": "11:48am route 907 to Cranley delayed up to 18 minutes",
+      "url": "https://translink.com.au/updates/969381",
+      "category": "Minor",
+      "start_date": "30/01/2026 11:48 AM",
+      "end_date": null,
+      "services": "907",
+      "start_date_raw": "30/01/2026 11:48 AM",
+      "end_date_raw": null,
+      "start_date_iso": "2026-01-30",
+      "end_date_iso": null,
+      "start_date_epoch": 1769737680,
+      "end_date_epoch": null,
+      "routes": [
+        "907"
+      ],
+      "locations": [
+        "Cranley"
+      ],
+      "stops": null,
+      "keywords": [
+        "delay",
+        "congestion",
+        "route 907",
+        "Cranley"
+      ]
+    }
+  }
+]
