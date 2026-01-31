@@ -25,8 +25,67 @@ Translink frequently updates its service status through website notices via http
 - **Frontend**: Pure HTML5, CSS3 (Vanilla), JavaScript (ES6+).
 
 ## Example
+<style>
+  figcaption {
+    font-size: 18px;
+    color: #eee;
+    margin-top: 8px;
+  }
+</style>
 
-![Chatbot Example](./assets/frontend.png)
+<figure style="text-align: center;">
+    <img src="./assets/frontend.png" style="width: 70%; height: auto;">
+    <figcaption>
+        Chatbot UI
+    </figcaption>
+</figure>
+<br>
+<div style="display: flex; justify-content: space-between; align-items: flex-end; gap: 10px;">
+
+  <!-- LEFT COLUMN -->
+  <figure style="text-align: center; width: 50%; margin: 0;">
+    <img src="./assets/Example1.png" style="width: 100%; height: auto;">
+    <img src="./assets/Example1TSA.png" style="width: 100%; height: auto; margin-top: 6px;">
+    <figcaption style="font-size: 14px; color: #eee; margin-top: 8px;">
+      Location Name
+    </figcaption>
+  </figure>
+
+  <!-- RIGHT COLUMN -->
+  <figure style="text-align: center; width: 50%; margin: 0;">
+    <img src="./assets/Example2.png" style="width: 100%; height: auto;">
+    <img src="./assets/Example2TSA.png" style="width: 100%; height: auto; margin-top: 6px;">
+    <figcaption style="font-size: 14px; color: #eee; margin-top: 8px;">
+      Route Name
+    </figcaption>
+  </figure>
+
+</div>
+<br>
+<div style="display: flex; justify-content: space-between; align-items: flex-end; gap: 10px;">
+
+  <!-- LEFT COLUMN -->
+  <figure style="text-align: center; width: 50%; margin: 0;">
+    <img src="./assets/Example3.png" style="width: 100%; height: auto;">
+    <img src="./assets/Example3TSA.png" style="width: 100%; height: auto; margin-top: 6px;">
+    <figcaption style="font-size: 14px; color: #eee; margin-top: 8px;">
+      Stop Example
+    </figcaption>
+  </figure>
+
+  <!-- RIGHT COLUMN -->
+  <figure style="text-align: center; width: 50%; margin: 0;">
+    <img src="./assets/Example4.png" style="width: 100%; height: auto;">
+    <img src="./assets/Example4TSA.png" style="width: 100%; height: auto; margin-top: 6px;">
+    <figcaption style="font-size: 14px; color: #eee; margin-top: 8px;">
+      Event Impact
+    </figcaption>
+  </figure>
+
+</div>
+
+
+
 
 ## Algorithm Overview
 ```mermaid

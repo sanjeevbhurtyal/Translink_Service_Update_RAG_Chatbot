@@ -501,8 +501,7 @@ def query_rag(query_text, n_results=10, model="qwen3:8b"):
                 {'role': 'user', 'content': user_prompt},
             ],
             options={
-                'temperature': 0.4,
-                'repition_penalty': 1.2,
+                'temperature': 0.7
             }
         )
         if 'thinking' in response['message']:
