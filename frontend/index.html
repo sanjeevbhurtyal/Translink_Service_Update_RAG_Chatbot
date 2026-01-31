@@ -19,6 +19,7 @@
             justify-content: center;
             align-items: center;
             padding: 20px;
+            font-size: 13px;
         }
 
         .chat-container {
@@ -41,17 +42,17 @@
         }
 
         .chat-header h1 {
-            font-size: 24px;
+            font-size: 20px;
             margin-bottom: 5px;
         }
 
         .chat-header p {
-            font-size: 14px;
+            font-size: 12px;
             opacity: 0.9;
         }
 
         .footer-note {
-            font-size: 12px;  
+            font-size: 10px;  
             color: #666;
         }
 
@@ -182,7 +183,7 @@
             background: #f0f0f0;
             border: 1px solid #e0e0e0;
             border-radius: 20px;
-            font-size: 13px;
+            font-size: 12px;
             cursor: pointer;
             transition: all 0.2s;
         }
@@ -198,7 +199,7 @@
             margin-top: 8px;
             color: #667eea;
             text-decoration: none;
-            font-size: 13px;
+            font-size: 12px;
         }
 
         .update-link:hover {
@@ -211,7 +212,7 @@
             padding: 10px;
             border-radius: 8px;
             margin-top: 10px;
-            font-size: 13px;
+            font-size: 12px;
         }
     </style>
 </head>
@@ -352,6 +353,9 @@
                 // Convert newlines to HTML line breaks
                 botResponse = botResponse.replace(/\n\n/g, '<br><br>');
                 botResponse = botResponse.replace(/\n/g, '<br>');
+
+                // Convert **bold** markdown to <strong>bold</strong>
+                botResponse = botResponse.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
 
                 // Force "More details:" to start on a new line
                 botResponse = botResponse.replace(/More details:/g, '<br>More details:<br>');
