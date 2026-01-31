@@ -29,37 +29,36 @@ Translink frequently updates its service status through website notices via http
 <p align="center">
   <img src="./assets/frontend.png" width="70%">
   <br>
-  <em>Chatbot UI</em>
+  Chatbot UI
 </p>
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="padding:0.5%;">
       <img src="./assets/Example1.png" width="100%"><br>
       <img src="./assets/Example1TSA.png" width="100%"><br>
-      <em>Location Name</em>
+      Location Name
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="padding:0.5%;">
       <img src="./assets/Example2.png" width="100%"><br>
       <img src="./assets/Example2TSA.png" width="100%"><br>
-      <em>Route Name</em>
+      Route Name
     </td>
   </tr>
 </table>
 
-<br>
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="padding:0.5%;">
       <img src="./assets/Example3.png" width="100%"><br>
       <img src="./assets/Example3TSA.png" width="100%"><br>
-      <em>Stop Example</em>
+      Stop Example
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="padding:0.5%;">
       <img src="./assets/Example4.png" width="100%"><br>
       <img src="./assets/Example4TSA.png" width="100%"><br>
-      <em>Event Impact</em>
+      Event Impact
     </td>
   </tr>
 </table>
