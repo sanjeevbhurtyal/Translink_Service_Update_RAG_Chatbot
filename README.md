@@ -26,52 +26,42 @@ Translink frequently updates its service status through website notices via http
 
 ## Examples
 
-<figure style="text-align: center;">
-    <img src="./assets/frontend.png" style="width: 70%; height: auto;">
-    <figcaption style="font-size:14px; color:#fff;">
-        Chatbot UI
-    </figcaption>
-</figure>
+<p align="center">
+  <img src="./assets/frontend.png" width="70%">
+  <br>
+  Chatbot UI
+</p>
 
-<div align="center">
-
-  <div style="display:inline-block; width:49%; vertical-align:bottom; text-align:center;">
-    <img src="./assets/Example1.png" width="100%"><br>
-    <img src="./assets/Example1TSA.png" width="100%"><br>
-    <span style="font-size:14px; color:#fff;">
+<table align="center">
+  <tr>
+    <td align="center" width="50%" style="padding:0.5%;">
+      <img src="./assets/Example1.png" width="100%"><br>
+      <img src="./assets/Example1TSA.png" width="100%"><br>
       Location Name
-    </span>
-  </div>
-
-  <div style="display:inline-block; width:49%; vertical-align:bottom; text-align:center;">
-    <img src="./assets/Example2.png" width="100%"><br>
-    <img src="./assets/Example2TSA.png" width="100%"><br>
-    <span style="font-size:14px; color:#fff;">
+    </td>
+    <td align="center" width="50%" style="padding:0.5%;">
+      <img src="./assets/Example2.png" width="100%"><br>
+      <img src="./assets/Example2TSA.png" width="100%"><br>
       Route Name
-    </span>
-  </div>
+    </td>
+  </tr>
+</table>
 
-</div>
-<br>
-<div align="center">
 
-  <div style="display:inline-block; width:49%; text-align:center;">
-    <img src="./assets/Example3.png" width="100%"><br>
-    <img src="./assets/Example3TSA.png" width="100%"><br>
-    <span style="font-size:14px; color:#fff;">
+<table align="center">
+  <tr>
+    <td align="center" width="50%" style="padding:0.5%;">
+      <img src="./assets/Example3.png" width="100%"><br>
+      <img src="./assets/Example3TSA.png" width="100%"><br>
       Stop Example
-    </span>
-  </div>
-
-  <div style="display:inline-block; width:49%; text-align:center;">
-    <img src="./assets/Example4.png" width="100%"><br>
-    <img src="./assets/Example4TSA.png" width="100%"><br>
-    <span style="font-size:14px; color:#fff;">
+    </td>
+    <td align="center" width="50%" style="padding:0.5%;">
+      <img src="./assets/Example4.png" width="100%"><br>
+      <img src="./assets/Example4TSA.png" width="100%"><br>
       Event Impact
-    </span>
-  </div>
-
-</div>
+    </td>
+  </tr>
+</table>
 
 
 ## Algorithm Overview
