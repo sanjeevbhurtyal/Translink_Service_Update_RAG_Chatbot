@@ -24,67 +24,54 @@ Translink frequently updates its service status through website notices via http
 - **Scraping**: `BeautifulSoup4`, `feedparser`.
 - **Frontend**: Pure HTML5, CSS3 (Vanilla), JavaScript (ES6+).
 
-## Example
-<style>
-  figcaption {
-    font-size: 18px;
-    color: #eee;
-    margin-top: 8px;
-  }
-</style>
+## Examples
 
 <figure style="text-align: center;">
     <img src="./assets/frontend.png" style="width: 70%; height: auto;">
-    <figcaption>
+    <figcaption style="font-size:14px; color:#fff;">
         Chatbot UI
     </figcaption>
 </figure>
-<br>
-<div style="display: flex; justify-content: space-between; align-items: flex-end; gap: 10px;">
 
-  <!-- LEFT COLUMN -->
-  <figure style="text-align: center; width: 50%; margin: 0;">
-    <img src="./assets/Example1.png" style="width: 100%; height: auto;">
-    <img src="./assets/Example1TSA.png" style="width: 100%; height: auto; margin-top: 6px;">
-    <figcaption style="font-size: 14px; color: #eee; margin-top: 8px;">
+<div align="center">
+
+  <div style="display:inline-block; width:49%; vertical-align:bottom; text-align:center;">
+    <img src="./assets/Example1.png" width="100%"><br>
+    <img src="./assets/Example1TSA.png" width="100%"><br>
+    <span style="font-size:14px; color:#fff;">
       Location Name
-    </figcaption>
-  </figure>
+    </span>
+  </div>
 
-  <!-- RIGHT COLUMN -->
-  <figure style="text-align: center; width: 50%; margin: 0;">
-    <img src="./assets/Example2.png" style="width: 100%; height: auto;">
-    <img src="./assets/Example2TSA.png" style="width: 100%; height: auto; margin-top: 6px;">
-    <figcaption style="font-size: 14px; color: #eee; margin-top: 8px;">
+  <div style="display:inline-block; width:49%; vertical-align:bottom; text-align:center;">
+    <img src="./assets/Example2.png" width="100%"><br>
+    <img src="./assets/Example2TSA.png" width="100%"><br>
+    <span style="font-size:14px; color:#fff;">
       Route Name
-    </figcaption>
-  </figure>
+    </span>
+  </div>
 
 </div>
 <br>
-<div style="display: flex; justify-content: space-between; align-items: flex-end; gap: 10px;">
+<div align="center">
 
-  <!-- LEFT COLUMN -->
-  <figure style="text-align: center; width: 50%; margin: 0;">
-    <img src="./assets/Example3.png" style="width: 100%; height: auto;">
-    <img src="./assets/Example3TSA.png" style="width: 100%; height: auto; margin-top: 6px;">
-    <figcaption style="font-size: 14px; color: #eee; margin-top: 8px;">
+  <div style="display:inline-block; width:49%; text-align:center;">
+    <img src="./assets/Example3.png" width="100%"><br>
+    <img src="./assets/Example3TSA.png" width="100%"><br>
+    <span style="font-size:14px; color:#fff;">
       Stop Example
-    </figcaption>
-  </figure>
+    </span>
+  </div>
 
-  <!-- RIGHT COLUMN -->
-  <figure style="text-align: center; width: 50%; margin: 0;">
-    <img src="./assets/Example4.png" style="width: 100%; height: auto;">
-    <img src="./assets/Example4TSA.png" style="width: 100%; height: auto; margin-top: 6px;">
-    <figcaption style="font-size: 14px; color: #eee; margin-top: 8px;">
+  <div style="display:inline-block; width:49%; text-align:center;">
+    <img src="./assets/Example4.png" width="100%"><br>
+    <img src="./assets/Example4TSA.png" width="100%"><br>
+    <span style="font-size:14px; color:#fff;">
       Event Impact
-    </figcaption>
-  </figure>
+    </span>
+  </div>
 
 </div>
-
-
 
 
 ## Algorithm Overview
